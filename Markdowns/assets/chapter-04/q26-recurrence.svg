@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">Ten terms take nine updates</title><desc id="desc">Actual discrete sequence a_n=n²−n+1,n1..10; the total added is2(1+...+9).</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Ten terms take nine updates</text>
+<defs><clipPath id="plot1"><rect x="130" y="130" width="700" height="340"/></clipPath></defs>
+<line x1="130.00" y1="470.00" x2="130.00" y2="130.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="130.00" y1="470.00" x2="830.00" y2="470.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="194.81" y1="466.00" x2="194.81" y2="474.00" stroke="#718594" stroke-width="1"/>
+<text x="194.81" y="493.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="324.44" y1="466.00" x2="324.44" y2="474.00" stroke="#718594" stroke-width="1"/>
+<text x="324.44" y="493.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<line x1="454.07" y1="466.00" x2="454.07" y2="474.00" stroke="#718594" stroke-width="1"/>
+<text x="454.07" y="493.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<line x1="583.70" y1="466.00" x2="583.70" y2="474.00" stroke="#718594" stroke-width="1"/>
+<text x="583.70" y="493.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">7</text>
+<line x1="713.33" y1="466.00" x2="713.33" y2="474.00" stroke="#718594" stroke-width="1"/>
+<text x="713.33" y="493.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">9</text>
+<line x1="778.15" y1="466.00" x2="778.15" y2="474.00" stroke="#718594" stroke-width="1"/>
+<text x="778.15" y="493.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">10</text>
+<line x1="126.00" y1="405.24" x2="134.00" y2="405.24" stroke="#718594" stroke-width="1"/>
+<text x="120.00" y="410.24" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">20</text>
+<line x1="126.00" y1="275.71" x2="134.00" y2="275.71" stroke="#718594" stroke-width="1"/>
+<text x="120.00" y="280.71" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">60</text>
+<line x1="126.00" y1="146.19" x2="134.00" y2="146.19" stroke="#718594" stroke-width="1"/>
+<text x="120.00" y="151.19" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">100</text>
+<text x="842.00" y="476.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">n</text>
+<text x="140.00" y="138.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">a<tspan baseline-shift="sub" font-size="75%">n</tspan></text>
+<circle cx="194.81" cy="466.76" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="259.63" cy="460.29" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="324.44" cy="447.33" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="389.26" cy="427.90" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="454.07" cy="402.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="518.89" cy="369.62" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="583.70" cy="330.76" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="648.52" cy="285.43" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="713.33" cy="233.62" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="778.15" cy="175.33" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="170.00" y="90.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="start" font-weight="400">Start a₁ = 1; add 2, 4, 6, …, 18</text>
+<line x1="778.15" y1="175.33" x2="875.00" y2="210.00" stroke="#718594" stroke-width="1.3"/>
+<text x="865.00" y="175.00" font-family="Arial,sans-serif" font-size="22" fill="#155e82" text-anchor="middle" font-weight="400">a₁₀ = 91</text>
+<text x="500.00" y="535.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="400">Nine updates: a₁₀ = 1 + 2(1+2+⋯+9)</text>
+<text x="500.00" y="582.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Only the dots are the sequence. Do not add the tenth update unless finding a₁₁.</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 550" role="img" aria-labelledby="title desc">
+<title id="title">A cofactor row pairs differently with its own row and another row</title><desc id="desc">ActualQ21Aandrow2cofactors[-12,3,2]. Row1dotcofactorrow0;row2dotcofactorrow22.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">A cofactor row pairs differently with its own row and another row</text>
+<rect x="60" y="130" width="280" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="172.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">Entries used</text>
+<rect x="340" y="130" width="150" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="415.00" y="172.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">first</text>
+<rect x="490" y="130" width="150" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="565.00" y="172.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">second</text>
+<rect x="640" y="130" width="150" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="715.00" y="172.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">third</text>
+<rect x="790" y="130" width="150" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="865.00" y="172.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">dot sum</text>
+<rect x="60" y="200" width="280" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="242.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">Row 1</text>
+<rect x="340" y="200" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="415.00" y="242.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="490" y="200" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="565.00" y="242.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<rect x="640" y="200" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="715.00" y="242.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="790" y="200" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="865.00" y="242.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="60" y="270" width="280" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="312.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">Row 2</text>
+<rect x="340" y="270" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="415.00" y="312.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="490" y="270" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="565.00" y="312.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<rect x="640" y="270" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="715.00" y="312.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<rect x="790" y="270" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="865.00" y="312.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">22</text>
+<rect x="60" y="340" width="280" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="382.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">Cofactors of row 2</text>
+<rect x="340" y="340" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="415.00" y="382.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">−12</text>
+<rect x="490" y="340" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="565.00" y="382.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="640" y="340" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="715.00" y="382.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<rect x="790" y="340" width="150" height="70" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="865.00" y="382.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400"></text>
+<text x="500.00" y="465.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">Row 1 with row 2 cofactors → repeated-row determinant → 0</text>
+<text x="500.00" y="532.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The two displayed dot sums both use the cofactor row at the bottom.</text>
+</svg>

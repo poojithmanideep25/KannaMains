@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q8: adjacent angle differences cancel all the middle terms</title><desc id="desc">An original exact data/count table records the objects and quantities used in the solution.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q8: adjacent angle differences cancel all the middle terms</text>
+<rect x="65" y="110" width="100" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">Index</text>
+<rect x="165" y="110" width="400" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="177.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">Same inverse-cotangent term</text>
+<rect x="65" y="158" width="100" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">n=1</text>
+<rect x="165" y="158" width="400" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="177.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">arctan2 − arctan1</text>
+<rect x="65" y="206" width="100" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">n=2</text>
+<rect x="165" y="206" width="400" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="177.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">arctan3 − arctan2</text>
+<rect x="65" y="254" width="100" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">n=3</text>
+<rect x="165" y="254" width="400" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="177.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">arctan4 − arctan3</text>
+<rect x="65" y="302" width="100" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">…</text>
+<rect x="165" y="302" width="400" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="177.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">…</text>
+<rect x="65" y="350" width="100" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="382.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">n=19</text>
+<rect x="165" y="350" width="400" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="177.00" y="382.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">arctan20 − arctan19</text>
+<rect x="65" y="398" width="100" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="430.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Sum</text>
+<rect x="165" y="398" width="400" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="177.00" y="430.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">arctan20 − arctan1</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Each argument n²+n+1 is positive.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Each difference is an acute angle.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">No branch correction is needed.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">tan(sum)=19/21.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Hence19cot(sum)=21.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Read each row with its header; the listed values are the quantities used in the solution.</text>
+</svg>

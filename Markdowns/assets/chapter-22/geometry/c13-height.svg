@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 510" role="img" aria-labelledby="title desc">
+<title id="title">The height is the perpendicular part of the third edge</title><desc id="desc">An exact in-plane view. The chosen direction is horizontal; the leftover component is vertical. This is not the original xyz-axis view.</desc>
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#155e82"/></marker>
+<marker id="orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#a04c13"/></marker>
+<marker id="ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker>
+<marker id="gray" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#718594"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="33.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">The height is the perpendicular part of the third edge</text>
+<line x1="304.31" y1="420.00" x2="695.69" y2="420.00" stroke="#718594" stroke-width="2" stroke-linecap="round"/>
+<line x1="352.31" y1="420.00" x2="653.02" y2="420.00" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<line x1="352.31" y1="420.00" x2="503.16" y2="100.00" stroke="#20394d" stroke-width="3" stroke-linecap="round" marker-end="url(#ink)"/>
+<line x1="352.31" y1="420.00" x2="503.16" y2="420.00" stroke="#a04c13" stroke-width="4" stroke-linecap="round" marker-end="url(#orange)"/>
+<line x1="503.16" y1="420.00" x2="503.16" y2="100.00" stroke="#a04c13" stroke-width="2.7" stroke-linecap="round" stroke-dasharray="8 6" marker-end="url(#orange)"/>
+<path d="M485.1624561570187,420.0 L485.1624561570187,402.0 L503.1624561570187,402.0" fill="none" stroke="#20394d" stroke-width="2"/>
+<circle cx="352.31" cy="420.00" r="4.5" fill="#20394d"/>
+<text x="328.31" y="445.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">O</text>
+<circle cx="503.16" cy="420.00" r="4.5" fill="#20394d"/>
+<text x="511.16" y="445.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">H</text>
+<circle cx="503.16" cy="100.00" r="4.5" fill="#20394d"/>
+<text x="513.16" y="90.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">P</text>
+<text x="395.74" y="252.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="start" font-weight="700">a</text>
+<text x="661.02" y="408.00" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">direction base</text>
+<text x="427.74" y="462.00" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="middle" font-weight="400">along base</text>
+<text x="517.16" y="260.00" font-family="Arial,sans-serif" font-size="18" fill="#a04c13" text-anchor="start" font-weight="400">perpendicular part</text>
+<path d="M394.31,420.00 A42,42 0 0 0 370.22,382.01" fill="none" stroke="#718594" stroke-width="1.8"/>
+<text x="408.05" y="384.65" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">θ</text>
+<text x="500.00" y="492.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">OP = OH + HP. The small square marks the right angle at H.</text>
+</svg>

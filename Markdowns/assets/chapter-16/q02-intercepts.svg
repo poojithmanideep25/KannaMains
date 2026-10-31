@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q2: equal intercepts make a right triangle</title><desc id="desc">Actual axis intercept triangle with the supplied point on its sloping side.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q2: equal intercepts make a right triangle</text>
+<polygon clip-path="url(#plot1)" points="122.69,412.31 391.92,412.31 122.69,143.08" fill="#dcecf4" stroke="none"/>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="350.0" height="350.0"/></clipPath></defs>
+<line x1="122.69" y1="450.00" x2="122.69" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="412.31" x2="435.00" y2="412.31" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="447.00" y="418.31" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="132.69" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">P = (2,3)</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">A = (a,0); B = (0,a)</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The line is x + y = a.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Use P to find a.</text>
+<line x1="122.69" y1="412.31" x2="391.92" y2="412.31" stroke="#718594" stroke-width="2.2"/>
+<line x1="122.69" y1="412.31" x2="122.69" y2="143.08" stroke="#718594" stroke-width="2.2"/>
+<line x1="85.00" y1="105.38" x2="429.62" y2="450.00" stroke="#155e82" stroke-width="2.5"/>
+<circle cx="391.92" cy="412.31" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="369.92" y="437.31" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">A</text>
+<circle cx="122.69" cy="143.08" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="82.69" y="148.08" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">B</text>
+<circle cx="230.38" cy="250.77" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="244.38" y="260.77" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">P</text>
+<circle cx="122.69" cy="412.31" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="97.69" y="435.31" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">O</text>
+<line x1="136.69" y1="412.31" x2="136.69" y2="398.31" stroke="#20394d" stroke-width="1.5"/>
+<line x1="136.69" y1="398.31" x2="122.69" y2="398.31" stroke="#20394d" stroke-width="1.5"/>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units on both axes; all positions come from the stated geometry.</text>
+</svg>

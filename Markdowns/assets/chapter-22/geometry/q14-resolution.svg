@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 510" role="img" aria-labelledby="title desc">
+<title id="title">Q14: split a along b and perpendicular to b</title><desc id="desc">An exact in-plane view. The chosen direction is horizontal; the leftover component is vertical. This is not the original xyz-axis view.</desc>
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#155e82"/></marker>
+<marker id="orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#a04c13"/></marker>
+<marker id="ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker>
+<marker id="gray" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#718594"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="33.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q14: split a along b and perpendicular to b</text>
+<line x1="317.60" y1="420.00" x2="682.40" y2="420.00" stroke="#718594" stroke-width="2" stroke-linecap="round"/>
+<line x1="358.33" y1="420.00" x2="646.19" y2="420.00" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<line x1="358.33" y1="420.00" x2="469.19" y2="100.00" stroke="#20394d" stroke-width="3" stroke-linecap="round" marker-end="url(#ink)"/>
+<line x1="358.33" y1="420.00" x2="469.19" y2="420.00" stroke="#a04c13" stroke-width="4" stroke-linecap="round" marker-end="url(#orange)"/>
+<line x1="469.19" y1="420.00" x2="469.19" y2="100.00" stroke="#a04c13" stroke-width="2.7" stroke-linecap="round" stroke-dasharray="8 6" marker-end="url(#orange)"/>
+<path d="M451.1851220622914,420.0 L451.1851220622914,402.0 L469.1851220622914,402.0" fill="none" stroke="#20394d" stroke-width="2"/>
+<circle cx="358.33" cy="420.00" r="4.5" fill="#20394d"/>
+<text x="334.33" y="445.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">O</text>
+<circle cx="469.19" cy="420.00" r="4.5" fill="#20394d"/>
+<text x="477.19" y="445.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">H</text>
+<circle cx="469.19" cy="100.00" r="4.5" fill="#20394d"/>
+<text x="479.19" y="90.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">P</text>
+<text x="381.76" y="252.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="start" font-weight="700">a</text>
+<text x="654.19" y="408.00" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">direction b</text>
+<text x="413.76" y="462.00" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="middle" font-weight="400">along b</text>
+<text x="483.19" y="260.00" font-family="Arial,sans-serif" font-size="18" fill="#a04c13" text-anchor="start" font-weight="400">perpendicular part</text>
+<path d="M400.33,420.00 A42,42 0 0 0 372.08,380.31" fill="none" stroke="#718594" stroke-width="1.8"/>
+<text x="412.10" y="381.72" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">θ</text>
+<text x="500.00" y="492.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">OP = OH + HP. The small square marks the right angle at H.</text>
+</svg>

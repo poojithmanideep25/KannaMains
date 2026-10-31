@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+<title id="title">Equal radii and complementary angles reflect in the vertical axis</title><desc id="desc">An explanatory pair z2=square root three+i and z1=-square root three+i has argument sum pi.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Equal radii and complementary angles reflect in the vertical axis</text>
+<defs><clipPath id="plot1"><rect x="250" y="100" width="500" height="500"/></clipPath></defs>
+<line x1="500.00" y1="600.00" x2="500.00" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="250.00" y1="350.00" x2="750.00" y2="350.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="300.00" y1="346.00" x2="300.00" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="300.00" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">−2</text>
+<line x1="400.00" y1="346.00" x2="400.00" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="400.00" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">−1</text>
+<line x1="500.00" y1="346.00" x2="500.00" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="500.00" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<line x1="600.00" y1="346.00" x2="600.00" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="600.00" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="700.00" y1="346.00" x2="700.00" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="700.00" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="496.00" y1="550.00" x2="504.00" y2="550.00" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="555.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">−2</text>
+<line x1="496.00" y1="450.00" x2="504.00" y2="450.00" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="455.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">−1</text>
+<line x1="496.00" y1="250.00" x2="504.00" y2="250.00" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="255.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">1</text>
+<line x1="496.00" y1="150.00" x2="504.00" y2="150.00" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="155.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">2</text>
+<text x="762.00" y="356.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Re z</text>
+<text x="510.00" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Im z</text>
+<line x1="500.00" y1="350.00" x2="673.21" y2="250.00" stroke="#155e82" stroke-width="2.7" marker-end="url(#arrow)"/>
+<circle cx="673.21" cy="250.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="688.21" y="235.00" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">z₂</text>
+<line x1="500.00" y1="350.00" x2="326.79" y2="250.00" stroke="#a04c13" stroke-width="2.7" marker-end="url(#arrow)"/>
+<circle cx="326.79" cy="250.00" r="4.8" fill="#a04c13" stroke="#a04c13" stroke-width="2"/>
+<text x="291.79" y="235.00" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="start" font-weight="400">z₁</text>
+<line x1="326.79" y1="250.00" x2="673.21" y2="250.00" stroke="#718594" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="500.00" y="632.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Example: z₁ = −conjugate(z₂). Conjugation alone would reflect in the horizontal axis.</text>
+</svg>

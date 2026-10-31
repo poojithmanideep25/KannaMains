@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">Independent binary rows point in different directions</title><desc id="desc">Thethreepossiblenonzerobinaryrowvectorsare(1,0),(0,1),(1,1).</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Independent binary rows point in different directions</text>
+<defs><clipPath id="plot1"><rect x="130" y="130" width="350" height="350"/></clipPath></defs>
+<line x1="185.26" y1="480.00" x2="185.26" y2="130.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="130.00" y1="424.74" x2="480.00" y2="424.74" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="369.47" y1="420.74" x2="369.47" y2="428.74" stroke="#718594" stroke-width="1"/>
+<text x="369.47" y="447.74" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="181.26" y1="240.53" x2="189.26" y2="240.53" stroke="#718594" stroke-width="1"/>
+<text x="175.26" y="245.53" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">1</text>
+<text x="492.00" y="430.74" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="195.26" y="138.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<line x1="185.26" y1="424.74" x2="369.47" y2="424.74" stroke="#155e82" stroke-width="2.8" marker-end="url(#arrow)"/>
+<circle cx="369.47" cy="424.74" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="381.47" y="409.74" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">(1,0)</text>
+<line x1="185.26" y1="424.74" x2="185.26" y2="240.53" stroke="#155e82" stroke-width="2.8" marker-end="url(#arrow)"/>
+<circle cx="185.26" cy="240.53" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="197.26" y="225.53" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">(0,1)</text>
+<line x1="185.26" y1="424.74" x2="369.47" y2="240.53" stroke="#155e82" stroke-width="2.8" marker-end="url(#arrow)"/>
+<circle cx="369.47" cy="240.53" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="381.47" y="225.53" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">(1,1)</text>
+<text x="640.00" y="195.00" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="start" font-weight="400">First row: 3 choices</text>
+<text x="640.00" y="300.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="start" font-weight="400">Second: 2 different choices</text>
+<text x="640.00" y="405.00" font-family="Arial,sans-serif" font-size="25" fill="#155e82" text-anchor="start" font-weight="400">Total: 3 × 2 = 6</text>
+<text x="500.00" y="582.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal unit scales. For this specific list, different nonzero rows are never proportional.</text>
+</svg>

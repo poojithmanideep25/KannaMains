@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q6: one triangle, two side movements from A</title><desc id="desc">Actual verticesA(−2,3),B(4,−1),C(6,5).</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q6: one triangle, two side movements from A</text>
+<polygon clip-path="url(#plot1)" points="126.18,244.12 373.24,408.82 455.59,161.76" fill="#dcecf4" stroke="none"/>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="411.764705882353" height="350.0"/></clipPath></defs>
+<line x1="208.53" y1="450.00" x2="208.53" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="367.65" x2="496.76" y2="367.65" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="508.76" y="373.65" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="218.53" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">A = (−2,3)</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">B = (4,−1)</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">C = (6,5)</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">AB = (6,−4)</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">AC = (8,2)</text>
+<text x="635.00" y="330.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Area = half the determinant.</text>
+<polyline clip-path="url(#plot1)" points="126.18,244.12 373.24,408.82 455.59,161.76 126.18,244.12" fill="none" stroke="#155e82" stroke-width="2.7"/>
+<circle cx="126.18" cy="244.12" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="103.18" y="231.12" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">A</text>
+<circle cx="373.24" cy="408.82" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="385.24" y="395.82" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">B</text>
+<circle cx="455.59" cy="161.76" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="467.59" y="148.76" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">C</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units on both axes; all positions come from the stated geometry.</text>
+</svg>

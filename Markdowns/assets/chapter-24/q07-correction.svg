@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q7: correct the total while keeping twenty observations</title><desc id="desc">An original exact data/count table records the objects and quantities used in the solution.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q7: correct the total while keeping twenty observations</text>
+<rect x="65" y="110" width="250" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">Step</text>
+<rect x="315" y="110" width="250" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">Total contribution</text>
+<rect x="65" y="158" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Recorded sum</text>
+<rect x="315" y="158" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">20×10 = 200</text>
+<rect x="65" y="206" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Remove wrong reading</text>
+<rect x="315" y="206" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">−12</text>
+<rect x="65" y="254" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Insert actual reading</text>
+<rect x="315" y="254" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">+8</text>
+<rect x="65" y="302" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Correct sum</text>
+<rect x="315" y="302" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">196</text>
+<rect x="65" y="350" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="382.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Divide by count</text>
+<rect x="315" y="350" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="382.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">196/20 = 9.8</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Actual 8 had been recorded as 12.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The recorded sum was 4 too high.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The mean therefore drops by 4/20.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Observation count stays 20.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Read each row with its header; the listed values are the quantities used in the solution.</text>
+</svg>

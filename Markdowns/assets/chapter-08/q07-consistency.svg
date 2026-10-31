@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590" role="img" aria-labelledby="title desc">
+<title id="title">Dependent left sides need matching right sides</title><desc id="desc">Q7combination2E2-E1givescoefficients1,3,5andRHS13. Matchinglambda5mu13isconsistent.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Dependent left sides need matching right sides</text>
+<rect x="90" y="110" width="200" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="190.00" y="149.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">Equation</text>
+<rect x="290" y="110" width="130" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="355.00" y="149.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">x</text>
+<rect x="420" y="110" width="130" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="485.00" y="149.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">y</text>
+<rect x="550" y="110" width="130" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="615.00" y="149.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">z</text>
+<rect x="680" y="110" width="220" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="790.00" y="149.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">right side</text>
+<rect x="90" y="174" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="190.00" y="213.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">E1</text>
+<rect x="290" y="174" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="355.00" y="213.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="420" y="174" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="485.00" y="213.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="550" y="174" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="615.00" y="213.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="680" y="174" width="220" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="790.00" y="213.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<rect x="90" y="238" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="190.00" y="277.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">E2</text>
+<rect x="290" y="238" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="355.00" y="277.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="420" y="238" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="485.00" y="277.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<rect x="550" y="238" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="615.00" y="277.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="680" y="238" width="220" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="790.00" y="277.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">9</text>
+<rect x="90" y="302" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="190.00" y="341.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">2E2 − E1</text>
+<rect x="290" y="302" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="355.00" y="341.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="420" y="302" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="485.00" y="341.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="550" y="302" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="615.00" y="341.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<rect x="680" y="302" width="220" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="790.00" y="341.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">13</text>
+<rect x="90" y="366" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="190.00" y="405.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">E3</text>
+<rect x="290" y="366" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="355.00" y="405.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="420" y="366" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="485.00" y="405.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="550" y="366" width="130" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="615.00" y="405.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">λ</text>
+<rect x="680" y="366" width="220" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="790.00" y="405.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">μ</text>
+<text x="500.00" y="485.00" font-family="Arial,sans-serif" font-size="25" fill="#155e82" text-anchor="middle" font-weight="700">Match both: λ = 5 and μ = 13</text>
+<text x="500.00" y="535.00" font-family="Arial,sans-serif" font-size="21" fill="#a33434" text-anchor="middle" font-weight="400">If λ = 5 but μ ≠ 13, subtracting gives 0 = μ−13: impossible.</text>
+<text x="500.00" y="572.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The first two rows are independent; when the third repeats them, one variable is free.</text>
+</svg>

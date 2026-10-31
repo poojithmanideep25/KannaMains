@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 550" role="img" aria-labelledby="title desc">
+<title id="title">Reduce the nine product exponents modulo seven</title><desc id="desc">Rows use exponents 1,2,4; columns use exponents 3,5,6. A zero remainder means z to a multiple of seven, equal to one.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Reduce the nine product exponents modulo seven</text>
+<text x="375.00" y="110.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="700">+3</text>
+<text x="465.00" y="110.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="700">+5</text>
+<text x="555.00" y="110.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="700">+6</text>
+<text x="295.00" y="190.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="700">1</text>
+<rect x="330" y="135" width="90" height="90" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="375.00" y="190.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">4</text>
+<rect x="420" y="135" width="90" height="90" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="465.00" y="190.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">6</text>
+<rect x="510" y="135" width="90" height="90" rx="0" fill="#f4dfce" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="555.00" y="190.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">0</text>
+<text x="295.00" y="280.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="700">2</text>
+<rect x="330" y="225" width="90" height="90" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="375.00" y="280.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">5</text>
+<rect x="420" y="225" width="90" height="90" rx="0" fill="#f4dfce" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="465.00" y="280.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">0</text>
+<rect x="510" y="225" width="90" height="90" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="555.00" y="280.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">1</text>
+<text x="295.00" y="370.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="700">4</text>
+<rect x="330" y="315" width="90" height="90" rx="0" fill="#f4dfce" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="375.00" y="370.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">0</text>
+<rect x="420" y="315" width="90" height="90" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="465.00" y="370.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">2</text>
+<rect x="510" y="315" width="90" height="90" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="555.00" y="370.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">3</text>
+<text x="500.00" y="465.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">Three 0s give 3; the other remainders are 1,2,3,4,5,6.</text>
+<text x="500.00" y="532.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The six nonconstant powers sum to −1. Product = 3 − 1 = 2.</text>
+</svg>

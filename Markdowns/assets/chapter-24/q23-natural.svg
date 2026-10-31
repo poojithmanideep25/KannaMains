@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q23: eleven consecutive values have variance ten</title><desc id="desc">Actual horizontal data coordinates; vertical stacking only records repeated observations. Compatible illustrative data are labelled explicitly.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q23: eleven consecutive values have variance ten</text>
+<line x1="85.00" y1="365.00" x2="565.00" y2="365.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="215.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">One dot = one observation</text>
+<line x1="153.57" y1="361.00" x2="153.57" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="153.57" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="187.86" y1="361.00" x2="187.86" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="187.86" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="222.14" y1="361.00" x2="222.14" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="222.14" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<line x1="256.43" y1="361.00" x2="256.43" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="256.43" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<line x1="290.71" y1="361.00" x2="290.71" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="290.71" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<line x1="325.00" y1="361.00" x2="325.00" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="325.00" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">6</text>
+<line x1="359.29" y1="361.00" x2="359.29" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="359.29" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">7</text>
+<line x1="393.57" y1="361.00" x2="393.57" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="393.57" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">8</text>
+<line x1="427.86" y1="361.00" x2="427.86" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="427.86" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">9</text>
+<line x1="462.14" y1="361.00" x2="462.14" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="462.14" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">10</text>
+<line x1="496.43" y1="361.00" x2="496.43" y2="369.00" stroke="#718594" stroke-width="1"/>
+<text x="496.43" y="391.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">11</text>
+<line x1="325.00" y1="250.00" x2="325.00" y2="370.00" stroke="#a33434" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="325.00" y="240.00" font-family="Arial,sans-serif" font-size="17" fill="#a33434" text-anchor="middle" font-weight="400">mean 6</text>
+<circle cx="153.57" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="187.86" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="222.14" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="256.43" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="290.71" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="325.00" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="359.29" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="393.57" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="427.86" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="462.14" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="496.43" cy="347.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Shown after solving n=11.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Mean = 6.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Squared deviations sum to110.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Descriptive variance = 110/11 = 10.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The negative root is not a count.</text>
+<text x="325.00" y="490.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Horizontal position = observation value</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">One dot is one observation. Vertical stacking shows repetitions,not a second measured quantity.</text>
+</svg>

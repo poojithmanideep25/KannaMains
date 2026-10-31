@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 460" role="img" aria-labelledby="title desc">
+<title id="title">Exactly two fixed letters: derange the remaining four</title><desc id="desc">Envelopecolumns1..6 containletters1,2,4,3,6,5;exactlytwo matches.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Exactly two fixed letters: derange the remaining four</text>
+<text x="90.00" y="120.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="start" font-weight="700">Envelope</text>
+<text x="90.00" y="240.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="start" font-weight="700">Letter</text>
+<rect x="280" y="80" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="317.50" y="119.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">1</text>
+<rect x="280" y="200" width="75" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="317.50" y="239.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">1</text>
+<text x="317.00" y="310.00" font-family="Arial,sans-serif" font-size="17" fill="#155e82" text-anchor="middle" font-weight="400">Correct</text>
+<rect x="390" y="80" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="427.50" y="119.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">2</text>
+<rect x="390" y="200" width="75" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="427.50" y="239.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">2</text>
+<text x="427.00" y="310.00" font-family="Arial,sans-serif" font-size="17" fill="#155e82" text-anchor="middle" font-weight="400">Correct</text>
+<rect x="500" y="80" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="537.50" y="119.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">3</text>
+<rect x="500" y="200" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="537.50" y="239.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">4</text>
+<text x="537.00" y="310.00" font-family="Arial,sans-serif" font-size="17" fill="#a04c13" text-anchor="middle" font-weight="400">Wrong</text>
+<rect x="610" y="80" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="647.50" y="119.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">4</text>
+<rect x="610" y="200" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="647.50" y="239.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">3</text>
+<text x="647.00" y="310.00" font-family="Arial,sans-serif" font-size="17" fill="#a04c13" text-anchor="middle" font-weight="400">Wrong</text>
+<rect x="720" y="80" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="757.50" y="119.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">5</text>
+<rect x="720" y="200" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="757.50" y="239.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">6</text>
+<text x="757.00" y="310.00" font-family="Arial,sans-serif" font-size="17" fill="#a04c13" text-anchor="middle" font-weight="400">Wrong</text>
+<rect x="830" y="80" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="867.50" y="119.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">6</text>
+<rect x="830" y="200" width="75" height="65" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="867.50" y="239.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">5</text>
+<text x="867.00" y="310.00" font-family="Arial,sans-serif" font-size="17" fill="#a04c13" text-anchor="middle" font-weight="400">Wrong</text>
+<text x="500.00" y="385.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">Chosen correct pair: 1 and 2; all four others miss their own address.</text>
+<text x="500.00" y="442.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">This is one of C(6,2) × D₄ outcomes. A plain 4! also allows extra correct letters.</text>
+</svg>

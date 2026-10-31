@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" role="img" aria-labelledby="title desc">
+<title id="title">Multiply a product sum by A minus B</title><desc id="desc">Smalln3example(A-B)(A³+A²B+AB²+B³)=A⁴-B⁴showsexactcancellation.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Multiply a product sum by A minus B</text>
+<text x="500.00" y="100.00" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">Short illustration: F = A³ + A²B + AB² + B³</text>
+<text x="60.00" y="200.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="start" font-weight="700">A × F</text>
+<text x="60.00" y="295.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="start" font-weight="700">B × F</text>
+<text x="270.00" y="200.00" font-family="Arial,sans-serif" font-size="25" fill="#155e82" text-anchor="middle" font-weight="400">A⁴</text>
+<text x="420.00" y="200.00" font-family="Arial,sans-serif" font-size="25" fill="#718594" text-anchor="middle" font-weight="400">A³B</text>
+<text x="570.00" y="200.00" font-family="Arial,sans-serif" font-size="25" fill="#718594" text-anchor="middle" font-weight="400">A²B²</text>
+<text x="720.00" y="200.00" font-family="Arial,sans-serif" font-size="25" fill="#718594" text-anchor="middle" font-weight="400">AB³</text>
+<text x="420.00" y="295.00" font-family="Arial,sans-serif" font-size="25" fill="#718594" text-anchor="middle" font-weight="400">A³B</text>
+<text x="570.00" y="295.00" font-family="Arial,sans-serif" font-size="25" fill="#718594" text-anchor="middle" font-weight="400">A²B²</text>
+<text x="720.00" y="295.00" font-family="Arial,sans-serif" font-size="25" fill="#718594" text-anchor="middle" font-weight="400">AB³</text>
+<text x="870.00" y="295.00" font-family="Arial,sans-serif" font-size="25" fill="#a04c13" text-anchor="middle" font-weight="400">B⁴</text>
+<line x1="420.00" y1="215.00" x2="420.00" y2="265.00" stroke="#718594" stroke-width="1.2" stroke-dasharray="7 5"/>
+<line x1="570.00" y1="215.00" x2="570.00" y2="265.00" stroke="#718594" stroke-width="1.2" stroke-dasharray="7 5"/>
+<line x1="720.00" y1="215.00" x2="720.00" y2="265.00" stroke="#718594" stroke-width="1.2" stroke-dasharray="7 5"/>
+<line x1="240.00" y1="335.00" x2="920.00" y2="335.00" stroke="#718594" stroke-width="1.4"/>
+<text x="500.00" y="395.00" font-family="Arial,sans-serif" font-size="27" fill="#155e82" text-anchor="middle" font-weight="400">Subtract: (A−B)F = A⁴ − B⁴</text>
+<text x="500.00" y="462.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Q24 uses the same cancellation with degree 20, A=1+x, B=x; then A−B=1.</text>
+</svg>

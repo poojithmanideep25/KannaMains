@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">A true side section makes one right angle visible</title><desc id="desc">True orthonormal plane section of saved original 3D coordinates,not the original xy-plane.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">A true side section makes one right angle visible</text>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="240.625" height="350.0"/></clipPath></defs>
+<line x1="150.62" y1="450.00" x2="150.62" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="384.38" x2="325.62" y2="384.38" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="337.62" y="390.38" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">u</text>
+<text x="160.62" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">v</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">This section contains u and n.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The other vector v points</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">out of this section.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">n stands perpendicular to</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">the entire u,v plane.</text>
+<line x1="150.62" y1="384.38" x2="260.00" y2="384.38" stroke="#155e82" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="150.62" y1="384.38" x2="150.62" y2="165.62" stroke="#a33434" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="150.62" cy="384.38" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="125.62" y="409.38" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">O</text>
+<circle cx="260.00" cy="384.38" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="275.00" y="409.38" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">u</text>
+<circle cx="150.62" cy="165.62" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="165.62" y="150.62" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">n</text>
+<line x1="164.62" y1="384.38" x2="164.62" y2="370.38" stroke="#20394d" stroke-width="1.5"/>
+<line x1="164.62" y1="370.38" x2="150.62" y2="370.38" stroke="#20394d" stroke-width="1.5"/>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units in a true plane inside 3D; u,v are not the original x,y axes.</text>
+</svg>

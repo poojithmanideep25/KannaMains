@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 510" role="img" aria-labelledby="title desc">
+<title id="title">Transpose partners: equal or opposite</title><desc id="desc">Symmetric3x3andscalarskew3x3showequalornegativepairedentries.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Transpose partners: equal or opposite</text>
+<text x="260.00" y="100.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Symmetric: Aᵀ = A</text>
+<text x="750.00" y="100.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Skew: Aᵀ = −A</text>
+<text x="182.50" y="195.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">a</text>
+<rect x="220" y="155" width="75" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="257.50" y="195.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">p</text>
+<text x="332.50" y="195.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">q</text>
+<rect x="145" y="220" width="75" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="182.50" y="260.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">p</text>
+<text x="257.50" y="260.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">b</text>
+<text x="332.50" y="260.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">r</text>
+<text x="182.50" y="325.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">q</text>
+<text x="257.50" y="325.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">r</text>
+<text x="332.50" y="325.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">c</text>
+<line x1="145.00" y1="150.00" x2="136.00" y2="150.00" stroke="#20394d" stroke-width="2"/>
+<line x1="136.00" y1="150.00" x2="136.00" y2="355.00" stroke="#20394d" stroke-width="2"/>
+<line x1="136.00" y1="355.00" x2="145.00" y2="355.00" stroke="#20394d" stroke-width="2"/>
+<line x1="370.00" y1="150.00" x2="379.00" y2="150.00" stroke="#20394d" stroke-width="2"/>
+<line x1="379.00" y1="150.00" x2="379.00" y2="355.00" stroke="#20394d" stroke-width="2"/>
+<line x1="379.00" y1="355.00" x2="370.00" y2="355.00" stroke="#20394d" stroke-width="2"/>
+<text x="672.50" y="195.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="710" y="155" width="75" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="747.50" y="195.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">p</text>
+<text x="822.50" y="195.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">q</text>
+<rect x="635" y="220" width="75" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="672.50" y="260.50" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">−p</text>
+<text x="747.50" y="260.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<text x="822.50" y="260.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">r</text>
+<text x="672.50" y="325.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">−q</text>
+<text x="747.50" y="325.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">−r</text>
+<text x="822.50" y="325.50" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<line x1="635.00" y1="150.00" x2="626.00" y2="150.00" stroke="#20394d" stroke-width="2"/>
+<line x1="626.00" y1="150.00" x2="626.00" y2="355.00" stroke="#20394d" stroke-width="2"/>
+<line x1="626.00" y1="355.00" x2="635.00" y2="355.00" stroke="#20394d" stroke-width="2"/>
+<line x1="860.00" y1="150.00" x2="869.00" y2="150.00" stroke="#20394d" stroke-width="2"/>
+<line x1="869.00" y1="150.00" x2="869.00" y2="355.00" stroke="#20394d" stroke-width="2"/>
+<line x1="869.00" y1="355.00" x2="860.00" y2="355.00" stroke="#20394d" stroke-width="2"/>
+<text x="260.00" y="415.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="400">a12 = a21 = p</text>
+<text x="750.00" y="415.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="400">a12 = p, a21 = −p</text>
+<text x="500.00" y="492.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Real skew diagonal entries obey aii=−aii, so every diagonal entry is zero.</text>
+</svg>

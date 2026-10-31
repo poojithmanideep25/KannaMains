@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Even data can have an interval of best absolute-distance centres</title><desc id="desc">Exact piecewise-linear absolute-distance sum for illustrative observations0,2,4,8,with every breakpoint plotted.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Even data can have an interval of best absolute-distance centres</text>
+<defs><clipPath id="plot1"><rect x="85" y="125" width="480" height="300"/></clipPath></defs>
+<line x1="133.00" y1="425.00" x2="133.00" y2="125.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="425.00" x2="565.00" y2="425.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="133.00" y1="421.00" x2="133.00" y2="429.00" stroke="#718594" stroke-width="1"/>
+<text x="133.00" y="448.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<line x1="229.00" y1="421.00" x2="229.00" y2="429.00" stroke="#718594" stroke-width="1"/>
+<text x="229.00" y="448.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="277.00" y1="421.00" x2="277.00" y2="429.00" stroke="#718594" stroke-width="1"/>
+<text x="277.00" y="448.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<line x1="325.00" y1="421.00" x2="325.00" y2="429.00" stroke="#718594" stroke-width="1"/>
+<text x="325.00" y="448.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<line x1="517.00" y1="421.00" x2="517.00" y2="429.00" stroke="#718594" stroke-width="1"/>
+<text x="517.00" y="448.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">8</text>
+<line x1="129.00" y1="300.00" x2="137.00" y2="300.00" stroke="#718594" stroke-width="1"/>
+<text x="123.00" y="305.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">10</text>
+<line x1="129.00" y1="175.00" x2="137.00" y2="175.00" stroke="#718594" stroke-width="1"/>
+<text x="123.00" y="180.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">20</text>
+<text x="577.00" y="431.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<text x="143.00" y="133.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<polyline clip-path="url(#plot1)" points="85.00,200.00 133.00,250.00 229.00,300.00 325.00,300.00 517.00,200.00 565.00,150.00" fill="none" stroke="#155e82" stroke-width="2.7"/>
+<line x1="229.00" y1="300.00" x2="325.00" y2="300.00" stroke="#a04c13" stroke-width="5"/>
+<line x1="277.00" y1="425.00" x2="277.00" y2="300.00" stroke="#a33434" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="85.00" y="90.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Total absolute distance</text>
+<text x="325.00" y="485.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Candidate centre a</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Illustrative sorted data:0,2,4,8.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Middle values are2 and4.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Every a between2 and4 gives</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">the same minimum cost10.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Conventional reported median = 3.</text>
+<text x="635.00" y="330.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The minimizing centre is not unique.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">All corners are plotted exactly; the flat part is the complete interval[2,4]of minimum inputs.</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 420" role="img" aria-labelledby="title desc">
+<title id="title">Coplanar means on one flat sheet</title><desc id="desc">Left: A, B, C and D share a plane. Right: D is above the plane of A, B and C, so the four are not coplanar.</desc>
+<defs><marker id="arrow-blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#155e82"/></marker>
+<marker id="arrow-orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a04c13"/></marker>
+<marker id="arrow-ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="250.00" y="38.00" font-family="Arial, sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="bold">Same sheet: coplanar</text>
+<polygon points="226.96,319.97 456.11,253.82 352.16,163.80 123.01,229.95" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.6"/>
+<circle cx="238.07" cy="294.94" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="218.07" y="317.94" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">A</text>
+<circle cx="415.39" cy="243.75" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="427.39" y="258.75" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">B</text>
+<circle cx="181.99" cy="227.47" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="159.99" y="217.47" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">C</text>
+<circle cx="321.76" cy="216.22" r="4.8" fill="#a04c13" stroke="#a04c13" stroke-width="2"/>
+<text x="331.76" y="207.22" font-family="Arial, sans-serif" font-size="20" fill="#a04c13" text-anchor="start" font-weight="bold">D</text>
+<text x="770.00" y="38.00" font-family="Arial, sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="bold">D above the sheet: not coplanar</text>
+<polygon points="746.96,319.97 976.11,253.82 872.16,163.80 643.01,229.95" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.6"/>
+<circle cx="758.07" cy="294.94" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="738.07" y="317.94" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">A</text>
+<circle cx="935.39" cy="243.75" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="947.39" y="258.75" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">B</text>
+<circle cx="701.99" cy="227.47" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="679.99" y="217.47" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">C</text>
+<line x1="841.76" y1="216.22" x2="841.76" y2="137.11" stroke="#a04c13" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<circle cx="841.763901205654" cy="216.21986959446184" r="3.5" fill="white" stroke="#7b8c99" stroke-width="1.6"/>
+<text x="853.76" y="222.22" font-family="Arial, sans-serif" font-size="16" fill="#a04c13" text-anchor="start" font-weight="normal">gap above sheet</text>
+<circle cx="841.76" cy="137.11" r="4.8" fill="#a04c13" stroke="#a04c13" stroke-width="2"/>
+<text x="851.76" y="128.11" font-family="Arial, sans-serif" font-size="20" fill="#a04c13" text-anchor="start" font-weight="bold">D</text>
+<text x="520.00" y="390.00" font-family="Arial, sans-serif" font-size="17" fill="#7b8c99" text-anchor="middle" font-weight="normal">The shaded patch stands for a flat sheet that continues beyond its drawn edges.</text>
+</svg>

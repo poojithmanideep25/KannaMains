@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" role="img" aria-labelledby="title desc">
+<title id="title">The GP middle term fixes two products</title><desc id="desc">Actual increasing GP2,4,8 with outerproduct16, totalproduct64, outersum10 and difference6.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">The GP middle term fixes two products</text>
+<rect x="207" y="135" width="86" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="250.00" y="177.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="700">2</text>
+<rect x="457" y="135" width="86" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="500.00" y="177.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="700">4</text>
+<rect x="707" y="135" width="86" height="65" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="750.00" y="177.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="700">8</text>
+<text x="375.00" y="175.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">× 2</text>
+<text x="625.00" y="175.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">× 2</text>
+<line x1="250.00" y1="235.00" x2="750.00" y2="235.00" stroke="#a04c13" stroke-width="2"/>
+<text x="500.00" y="280.00" font-family="Arial,sans-serif" font-size="23" fill="#a04c13" text-anchor="middle" font-weight="400">Outer product: 2 × 8 = 4² = 16</text>
+<text x="500.00" y="345.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="400">Total product: 2 × 4 × 8 = 4³ = 64</text>
+<text x="500.00" y="432.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The sum is 14. The outer difference is 8−2 = 6. Slots show order, not a length scale.</text>
+</svg>

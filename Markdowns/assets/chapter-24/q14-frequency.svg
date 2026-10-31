@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q14: locate the tenth and eleventh observations</title><desc id="desc">Discrete observed values and their actual frequencies; bar height is an observation count.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q14: locate the tenth and eleventh observations</text>
+<defs><clipPath id="plot1"><rect x="85" y="125" width="480" height="300"/></clipPath></defs>
+<line x1="85.00" y1="425.00" x2="565.00" y2="425.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="577.00" y="431.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<line x1="85.00" y1="425.00" x2="85.00" y2="125.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="90.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Frequency</text>
+<text x="325.00" y="480.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Observation value x</text>
+<text x="73.00" y="430.00" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0</text>
+<text x="73.00" y="314.62" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">3.5</text>
+<text x="73.00" y="199.23" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">7</text>
+<rect x="117.88888888888889" y="326.0989010989011" width="58.66666666666666" height="98.90109890109892" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="147.22" y="314.10" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<text x="147.22" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="206.77777777777777" y="260.16483516483515" width="58.666666666666686" height="164.83516483516485" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="236.11" y="248.16" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<text x="236.11" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<rect x="295.66666666666663" y="194.23076923076923" width="58.666666666666686" height="230.76923076923077" rx="0" fill="#a04c13" stroke="#20394d" stroke-width="1.5"/>
+<text x="325.00" y="182.23" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">7</text>
+<text x="325.00" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="384.55555555555554" y="293.13186813186815" width="58.666666666666686" height="131.86813186813185" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="413.89" y="281.13" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<text x="413.89" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<rect x="473.44444444444446" y="392.032967032967" width="58.66666666666663" height="32.96703296703299" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="502.78" y="380.03" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<text x="502.78" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Cumulative counts: 3,8,15,19,20.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Value 3 occupies positions 9–15.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Both middle positions 10,11 are 3.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Median = 3.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The tallest bar is not the median rule.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Height counts observations; the horizontal labels are the actual data values.</text>
+</svg>

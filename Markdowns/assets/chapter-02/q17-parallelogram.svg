@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+<title id="title">The sum and difference are the two diagonals</title><desc id="desc">A valid orientation of the given lengths uses z1=3 and z2=4i; both diagonals have length five.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">The sum and difference are the two diagonals</text>
+<defs><clipPath id="plot1"><rect x="250" y="100" width="500" height="500"/></clipPath></defs>
+<line x1="333.33" y1="600.00" x2="333.33" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="250.00" y1="516.67" x2="750.00" y2="516.67" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="333.33" y1="512.67" x2="333.33" y2="520.67" stroke="#718594" stroke-width="1"/>
+<text x="333.33" y="539.67" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<line x1="416.67" y1="512.67" x2="416.67" y2="520.67" stroke="#718594" stroke-width="1"/>
+<text x="416.67" y="539.67" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="500.00" y1="512.67" x2="500.00" y2="520.67" stroke="#718594" stroke-width="1"/>
+<text x="500.00" y="539.67" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="583.33" y1="512.67" x2="583.33" y2="520.67" stroke="#718594" stroke-width="1"/>
+<text x="583.33" y="539.67" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<line x1="666.67" y1="512.67" x2="666.67" y2="520.67" stroke="#718594" stroke-width="1"/>
+<text x="666.67" y="539.67" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<line x1="329.33" y1="433.33" x2="337.33" y2="433.33" stroke="#718594" stroke-width="1"/>
+<text x="323.33" y="438.33" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">1</text>
+<line x1="329.33" y1="350.00" x2="337.33" y2="350.00" stroke="#718594" stroke-width="1"/>
+<text x="323.33" y="355.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">2</text>
+<line x1="329.33" y1="266.67" x2="337.33" y2="266.67" stroke="#718594" stroke-width="1"/>
+<text x="323.33" y="271.67" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">3</text>
+<line x1="329.33" y1="183.33" x2="337.33" y2="183.33" stroke="#718594" stroke-width="1"/>
+<text x="323.33" y="188.33" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">4</text>
+<text x="762.00" y="522.67" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Re z</text>
+<text x="343.33" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Im z</text>
+<polygon points="333.3333333333333,516.6666666666667 583.3333333333333,516.6666666666667 583.3333333333333,183.33333333333331 333.3333333333333,183.33333333333331" fill="#edf3f7" stroke="#718594" stroke-width="2.2"/>
+<line x1="333.33" y1="516.67" x2="583.33" y2="183.33" stroke="#155e82" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="333.33" y1="183.33" x2="583.33" y2="516.67" stroke="#a04c13" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="583.33" cy="183.33" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="595.33" y="168.33" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">sum: 3 + 4i</text>
+<circle cx="583.33" cy="516.67" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="595.33" y="501.67" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">3</text>
+<circle cx="333.33" cy="183.33" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="345.33" y="168.33" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">4i</text>
+<text x="500.00" y="632.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">This is one orientation consistent with the data. The squared-length identity works in every orientation.</text>
+</svg>

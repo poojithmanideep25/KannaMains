@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" role="img" aria-labelledby="title desc">
+<title id="title">A multiple of ten needs both a two and a five</title><desc id="desc">7200=2^5*3^2*5^2;divisorexponentshaveallowedsets1..5,0..2,1..2.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">A multiple of ten needs both a two and a five</text>
+<text x="185.00" y="125.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Power of 2</text>
+<text x="185.00" y="220.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">1, 2, 3, 4, 5</text>
+<text x="185.00" y="300.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="400">5 choices</text>
+<text x="500.00" y="125.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Power of 3</text>
+<text x="500.00" y="220.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">0, 1, 2</text>
+<text x="500.00" y="300.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="400">3 choices</text>
+<text x="815.00" y="125.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Power of 5</text>
+<text x="815.00" y="220.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">1, 2</text>
+<text x="815.00" y="300.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="400">2 choices</text>
+<text x="500.00" y="380.00" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">Divisor = 2<tspan baseline-shift="super" font-size="75%">a</tspan> 3<tspan baseline-shift="super" font-size="75%">b</tspan> 5<tspan baseline-shift="super" font-size="75%">c</tspan>; count = 5 × 3 × 2 = 30</text>
+<text x="500.00" y="432.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Zero is allowed for the exponent of 3; it is forbidden for 2 and 5 by the multiple-of-ten condition.</text>
+</svg>

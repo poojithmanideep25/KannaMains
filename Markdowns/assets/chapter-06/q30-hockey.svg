@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 580" role="img" aria-labelledby="title desc">
+<title id="title">Pascal absorption moves the boundary forward</title><desc id="desc">StartingC50,4absorbsC50,3throughC55,3;upperindexoftheresultgrows51through56.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Pascal absorption moves the boundary forward</text>
+<text x="500.00" y="115.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">C(50,4) + C(50,3) = C(51,4)</text>
+<text x="500.00" y="185.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">C(51,4) + C(51,3) = C(52,4)</text>
+<text x="500.00" y="255.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">C(52,4) + C(52,3) = C(53,4)</text>
+<text x="500.00" y="325.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">C(53,4) + C(53,3) = C(54,4)</text>
+<text x="500.00" y="395.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">C(54,4) + C(54,3) = C(55,4)</text>
+<text x="500.00" y="465.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">C(55,4) + C(55,3) = C(56,4)</text>
+<text x="500.00" y="562.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Each line starts with the result of the previous line. Six additions end at C(56,4).</text>
+</svg>

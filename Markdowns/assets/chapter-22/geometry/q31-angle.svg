@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+<title id="title">Q31: two unit arrows also have a unit sum</title><desc id="desc">A true view in the plane of the two vectors. Dashed sides are translated copies; angles and relative lengths come from the supplied vectors.</desc>
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#155e82"/></marker>
+<marker id="orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#a04c13"/></marker>
+<marker id="ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker>
+<marker id="gray" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#718594"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="33.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q31: two unit arrows also have a unit sum</text>
+<polygon points="410.51,410.00 768.47,410.00 589.49,100.00 231.53,100.00" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.6"/>
+<line x1="410.51" y1="410.00" x2="768.47" y2="410.00" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<line x1="410.51" y1="410.00" x2="231.53" y2="100.00" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<circle cx="410.51" cy="410.00" r="4.5" fill="#20394d"/>
+<text x="386.51" y="434.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">O</text>
+<circle cx="768.47" cy="410.00" r="4.5" fill="#20394d"/>
+<text x="778.47" y="434.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">a</text>
+<circle cx="231.53" cy="100.00" r="4.5" fill="#20394d"/>
+<text x="211.53" y="86.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">b</text>
+<line x1="768.47" y1="410.00" x2="589.49" y2="100.00" stroke="#718594" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 6" marker-end="url(#gray)"/>
+<line x1="231.53" y1="100.00" x2="589.49" y2="100.00" stroke="#718594" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 6" marker-end="url(#gray)"/>
+<line x1="410.51" y1="410.00" x2="589.49" y2="100.00" stroke="#a04c13" stroke-width="3.4" stroke-linecap="round" marker-end="url(#orange)"/>
+<circle cx="589.49" cy="100.00" r="4.5" fill="#a04c13"/>
+<text x="601.49" y="88.00" font-family="Arial,sans-serif" font-size="20" fill="#a04c13" text-anchor="start" font-weight="700">a + b</text>
+<path d="M453.51,410.00 A43,43 0 0 0 389.01,372.76" fill="none" stroke="#718594" stroke-width="1.8"/>
+<text x="444.01" y="351.98" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">θ</text>
+<text x="500.00" y="482.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The diagonal gives the net movement.</text>
+</svg>

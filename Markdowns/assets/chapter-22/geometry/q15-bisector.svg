@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+<title id="title">Q15: equal-length directions give the internal bisector</title><desc id="desc">A true view in the plane of the two vectors. Dashed sides are translated copies; angles and relative lengths come from the supplied vectors.</desc>
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#155e82"/></marker>
+<marker id="orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#a04c13"/></marker>
+<marker id="ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker>
+<marker id="gray" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#718594"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="33.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q15: equal-length directions give the internal bisector</text>
+<polygon points="155.00,338.67 520.29,338.67 845.00,171.33 479.71,171.33" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.6"/>
+<line x1="155.00" y1="338.67" x2="520.29" y2="338.67" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<line x1="155.00" y1="338.67" x2="479.71" y2="171.33" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<circle cx="155.00" cy="338.67" r="4.5" fill="#20394d"/>
+<text x="131.00" y="362.67" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">O</text>
+<circle cx="520.29" cy="338.67" r="4.5" fill="#20394d"/>
+<text x="530.29" y="362.67" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">u</text>
+<circle cx="479.71" cy="171.33" r="4.5" fill="#20394d"/>
+<text x="459.71" y="157.33" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">v</text>
+<line x1="520.29" y1="338.67" x2="845.00" y2="171.33" stroke="#718594" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 6" marker-end="url(#gray)"/>
+<line x1="479.71" y1="171.33" x2="845.00" y2="171.33" stroke="#718594" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 6" marker-end="url(#gray)"/>
+<line x1="155.00" y1="338.67" x2="845.00" y2="171.33" stroke="#a04c13" stroke-width="3.4" stroke-linecap="round" marker-end="url(#orange)"/>
+<circle cx="845.00" cy="171.33" r="4.5" fill="#a04c13"/>
+<text x="857.00" y="159.33" font-family="Arial,sans-serif" font-size="20" fill="#a04c13" text-anchor="start" font-weight="700">u + v</text>
+<text x="500.00" y="482.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The diagonal gives the net movement.</text>
+</svg>
