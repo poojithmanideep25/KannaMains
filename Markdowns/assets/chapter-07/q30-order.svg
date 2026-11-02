@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+<title id="title">Changing the order changes the destination</title><desc id="desc">Aupperunit_shear,Blowerunit_shear,input(1,0);BAinput(1,1),ABinput(2,1).</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Changing the order changes the destination</text>
+<defs><clipPath id="plot1"><rect x="100" y="145" width="330" height="330"/></clipPath></defs>
+<text x="265.00" y="122.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">A then B: BA v</text>
+<line x1="147.14" y1="475.00" x2="147.14" y2="145.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="100.00" y1="427.86" x2="430.00" y2="427.86" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="265.00" y1="423.86" x2="265.00" y2="431.86" stroke="#718594" stroke-width="1"/>
+<text x="265.00" y="450.86" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="382.86" y1="423.86" x2="382.86" y2="431.86" stroke="#718594" stroke-width="1"/>
+<text x="382.86" y="450.86" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="143.14" y1="310.00" x2="151.14" y2="310.00" stroke="#718594" stroke-width="1"/>
+<text x="137.14" y="315.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">1</text>
+<line x1="143.14" y1="192.14" x2="151.14" y2="192.14" stroke="#718594" stroke-width="1"/>
+<text x="137.14" y="197.14" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">2</text>
+<text x="442.00" y="433.86" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="157.14" y="153.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<circle cx="265.00" cy="427.86" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="285.00" y="412.86" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">start</text>
+<line x1="265.00" y1="427.86" x2="265.00" y2="310.00" stroke="#155e82" stroke-width="2.5" marker-end="url(#arrow)"/>
+<circle cx="265.00" cy="310.00" r="4.8" fill="#a04c13" stroke="#a04c13" stroke-width="2"/>
+<text x="275.00" y="295.00" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="start" font-weight="400">(1, 1)</text>
+<text x="265.00" y="545.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">First A leaves v unchanged</text>
+<defs><clipPath id="plot2"><rect x="600" y="145" width="330" height="330"/></clipPath></defs>
+<text x="765.00" y="122.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">B then A: AB v</text>
+<line x1="647.14" y1="475.00" x2="647.14" y2="145.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="600.00" y1="427.86" x2="930.00" y2="427.86" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="765.00" y1="423.86" x2="765.00" y2="431.86" stroke="#718594" stroke-width="1"/>
+<text x="765.00" y="450.86" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="882.86" y1="423.86" x2="882.86" y2="431.86" stroke="#718594" stroke-width="1"/>
+<text x="882.86" y="450.86" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="643.14" y1="310.00" x2="651.14" y2="310.00" stroke="#718594" stroke-width="1"/>
+<text x="637.14" y="315.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">1</text>
+<line x1="643.14" y1="192.14" x2="651.14" y2="192.14" stroke="#718594" stroke-width="1"/>
+<text x="637.14" y="197.14" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">2</text>
+<text x="942.00" y="433.86" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="657.14" y="153.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<circle cx="765.00" cy="427.86" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="785.00" y="412.86" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">start</text>
+<line x1="765.00" y1="427.86" x2="765.00" y2="310.00" stroke="#155e82" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="765.00" y1="310.00" x2="882.86" y2="310.00" stroke="#155e82" stroke-width="2.5" marker-end="url(#arrow)"/>
+<circle cx="882.86" cy="310.00" r="4.8" fill="#a04c13" stroke="#a04c13" stroke-width="2"/>
+<text x="892.86" y="295.00" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="start" font-weight="400">(2, 1)</text>
+<text x="765.00" y="545.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">Both steps change v</text>
+<text x="500.00" y="632.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">v=(1,0), A=[[1,1],[0,1]], B=[[1,0],[1,1]]. Equal unit scales; arrows join successive images.</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 510" role="img" aria-labelledby="title desc">
+<title id="title">Q22: the three directions are mutually perpendicular</title><desc id="desc">An explicit orthographic drawing of a parallelepiped from its three edge vectors.</desc>
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#155e82"/></marker>
+<marker id="orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#a04c13"/></marker>
+<marker id="ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker>
+<marker id="gray" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#718594"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="33.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q22: the three directions are mutually perpendicular</text>
+<polygon points="223.82,206.67 360.95,420.00 707.62,420.00 570.49,206.67" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.6"/>
+<line x1="223.82" y1="206.67" x2="292.38" y2="100.00" stroke="#718594" stroke-width="1.7" stroke-linecap="round"/>
+<line x1="223.82" y1="206.67" x2="360.95" y2="420.00" stroke="#718594" stroke-width="1.7" stroke-linecap="round"/>
+<line x1="223.82" y1="206.67" x2="570.49" y2="206.67" stroke="#718594" stroke-width="1.7" stroke-linecap="round"/>
+<line x1="570.49" y1="206.67" x2="639.05" y2="100.00" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="570.49" y1="206.67" x2="707.62" y2="420.00" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="360.95" y1="420.00" x2="429.51" y2="313.33" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="360.95" y1="420.00" x2="707.62" y2="420.00" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="707.62" y1="420.00" x2="776.18" y2="313.33" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="292.38" y1="100.00" x2="429.51" y2="313.33" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="292.38" y1="100.00" x2="639.05" y2="100.00" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="639.05" y1="100.00" x2="776.18" y2="313.33" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="429.51" y1="313.33" x2="776.18" y2="313.33" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<circle cx="223.82" cy="206.67" r="4.5" fill="#20394d"/>
+<text x="199.82" y="228.67" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">O</text>
+<line x1="223.82" y1="206.67" x2="292.38" y2="100.00" stroke="#a04c13" stroke-width="3" stroke-linecap="round" marker-end="url(#orange)"/>
+<circle cx="292.38" cy="100.00" r="4.5" fill="#a04c13"/>
+<text x="304.38" y="86.00" font-family="Arial,sans-serif" font-size="20" fill="#a04c13" text-anchor="start" font-weight="700">a</text>
+<line x1="223.82" y1="206.67" x2="360.95" y2="420.00" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<circle cx="360.95" cy="420.00" r="4.5" fill="#20394d"/>
+<text x="372.95" y="442.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">2b</text>
+<line x1="223.82" y1="206.67" x2="570.49" y2="206.67" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<circle cx="570.49" cy="206.67" r="4.5" fill="#20394d"/>
+<text x="582.49" y="192.67" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">3c</text>
+<text x="500.00" y="492.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">All three edge arrows start at O. The shaded base is made by 2b and 3c.</text>
+</svg>

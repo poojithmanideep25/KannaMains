@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q8: the reconstructed binomial distribution has mean six</title><desc id="desc">Discrete bars from explicit source counts or exact probability weights; no continuous interpolation.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q8: the reconstructed binomial distribution has mean six</text>
+<defs><clipPath id="plot1"><rect x="85" y="125" width="480" height="300"/></clipPath></defs>
+<line x1="85.00" y1="425.00" x2="565.00" y2="425.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="577.00" y="431.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<text x="127.31" y="133.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<line x1="85.00" y1="425.00" x2="85.00" y2="125.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="90.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Probability</text>
+<text x="325.00" y="480.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Number of successes r</text>
+<text x="73.00" y="430.00" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0</text>
+<text x="73.00" y="314.62" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0.137</text>
+<text x="73.00" y="199.23" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0.273</text>
+<rect x="102.07692307692308" y="424.9570741758242" width="30.461538461538467" height="0.0429258241758248" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="117.31" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="148.23076923076923" y="424.2273351648352" width="30.46153846153851" height="0.7726648351647896" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="163.46" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="194.38461538461542" y="418.81868131868134" width="30.461538461538453" height="6.181318681318658" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="209.62" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<rect x="240.53846153846158" y="396.15384615384613" width="30.461538461538424" height="28.846153846153868" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="255.77" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="286.69230769230774" y="338.46153846153845" width="30.461538461538453" height="86.53846153846155" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="301.92" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<rect x="332.84615384615387" y="251.92307692307693" width="30.461538461538453" height="173.07692307692307" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="348.08" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<rect x="379.0" y="194.23076923076925" width="30.46153846153851" height="230.76923076923075" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="394.23" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">6</text>
+<rect x="425.15384615384625" y="227.19780219780222" width="30.461538461538396" height="197.80219780219778" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="440.38" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">7</text>
+<rect x="471.3076923076923" y="326.0989010989011" width="30.461538461538453" height="98.90109890109892" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="486.54" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">8</text>
+<rect x="517.4615384615385" y="403.02197802197804" width="30.461538461538453" height="21.978021978021957" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="532.69" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">9</text>
+<line x1="394.23" y1="425.00" x2="394.23" y2="125.00" stroke="#a33434" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="394.23" y="105.00" font-family="Arial,sans-serif" font-size="17" fill="#a33434" text-anchor="middle" font-weight="400">mean 6</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Solved model: n=9, p=2/3.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Mean np = 6.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Variance np(1-p) = 2.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The mean is not a fixed outcome.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Small bar heights remain positive.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Separate bars are possible values; their heights come from the saved exact data.</text>
+</svg>

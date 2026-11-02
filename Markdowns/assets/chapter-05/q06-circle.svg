@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+<title id="title">Five circular gaps give alternating seating</title><desc id="desc">Ten equal angularpositions alternateM1,W1,M2,W2,... aroundanunnumberedtable.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Five circular gaps give alternating seating</text>
+<circle cx="380.00" cy="315.00" r="115" fill="#edf3f7" stroke="#718594" stroke-width="1.5"/>
+<text x="380.00" y="322.00" font-family="Arial,sans-serif" font-size="26" fill="#20394d" text-anchor="middle" font-weight="400">Table</text>
+<circle cx="380.00" cy="130.00" r="25" fill="white" stroke="#155e82" stroke-width="2"/>
+<text x="380.00" y="137.00" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="middle" font-weight="400">M1</text>
+<circle cx="488.74" cy="165.33" r="25" fill="#edf3f7" stroke="#a04c13" stroke-width="2"/>
+<text x="488.74" y="172.33" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="middle" font-weight="400">W1</text>
+<circle cx="555.95" cy="257.83" r="25" fill="white" stroke="#155e82" stroke-width="2"/>
+<text x="555.95" y="264.83" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="middle" font-weight="400">M2</text>
+<circle cx="555.95" cy="372.17" r="25" fill="#edf3f7" stroke="#a04c13" stroke-width="2"/>
+<text x="555.95" y="379.17" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="middle" font-weight="400">W2</text>
+<circle cx="488.74" cy="464.67" r="25" fill="white" stroke="#155e82" stroke-width="2"/>
+<text x="488.74" y="471.67" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="middle" font-weight="400">M3</text>
+<circle cx="380.00" cy="500.00" r="25" fill="#edf3f7" stroke="#a04c13" stroke-width="2"/>
+<text x="380.00" y="507.00" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="middle" font-weight="400">W3</text>
+<circle cx="271.26" cy="464.67" r="25" fill="white" stroke="#155e82" stroke-width="2"/>
+<text x="271.26" y="471.67" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="middle" font-weight="400">M4</text>
+<circle cx="204.05" cy="372.17" r="25" fill="#edf3f7" stroke="#a04c13" stroke-width="2"/>
+<text x="204.05" y="379.17" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="middle" font-weight="400">W4</text>
+<circle cx="204.05" cy="257.83" r="25" fill="white" stroke="#155e82" stroke-width="2"/>
+<text x="204.05" y="264.83" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="middle" font-weight="400">M5</text>
+<circle cx="271.26" cy="165.33" r="25" fill="#edf3f7" stroke="#a04c13" stroke-width="2"/>
+<text x="271.26" y="172.33" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="middle" font-weight="400">W5</text>
+<text x="680.00" y="205.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="start" font-weight="400">Fix M1 as a reference.</text>
+<text x="680.00" y="280.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="start" font-weight="400">Other men: 4! orders</text>
+<text x="680.00" y="355.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="start" font-weight="400">Women in 5 gaps: 5!</text>
+<text x="680.00" y="445.00" font-family="Arial,sans-serif" font-size="22" fill="#155e82" text-anchor="start" font-weight="400">Total: 4! × 5! = 2880</text>
+<text x="500.00" y="622.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">One example is shown. The circle has no numbered first seat; rotations represent the same seating.</text>
+</svg>

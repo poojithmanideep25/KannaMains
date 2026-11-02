@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">Check the function, its derivative, then derivative continuity</title><desc id="desc">Q12exactclassificationattheinput0forfourfunctions.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Check the function, its derivative, then derivative continuity</text>
+<rect x="55" y="130" width="280" height="75" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="195.00" y="174.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">Function</text>
+<rect x="335" y="130" width="170" height="75" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="420.00" y="174.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">Continuous?</text>
+<rect x="505" y="130" width="210" height="75" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="610.00" y="174.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">Differentiable?</text>
+<rect x="715" y="130" width="230" height="75" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="830.00" y="174.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">Derivative continuous?</text>
+<rect x="55" y="205" width="280" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="195.00" y="249.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">|x|</text>
+<rect x="335" y="205" width="170" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="420.00" y="249.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">yes</text>
+<rect x="505" y="205" width="210" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="610.00" y="249.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">no</text>
+<rect x="715" y="205" width="230" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="830.00" y="249.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">not defined at 0</text>
+<rect x="55" y="280" width="280" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="195.00" y="324.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">x|x|</text>
+<rect x="335" y="280" width="170" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="420.00" y="324.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">yes</text>
+<rect x="505" y="280" width="210" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="610.00" y="324.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">yes; f′(0)=0</text>
+<rect x="715" y="280" width="230" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="830.00" y="324.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">yes</text>
+<rect x="55" y="355" width="280" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="195.00" y="399.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">floor(x)</text>
+<rect x="335" y="355" width="170" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="420.00" y="399.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">no</text>
+<rect x="505" y="355" width="210" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="610.00" y="399.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">no</text>
+<rect x="715" y="355" width="230" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="830.00" y="399.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">not defined at 0</text>
+<rect x="55" y="430" width="280" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="195.00" y="474.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">x²sin(1/x), f(0)=0</text>
+<rect x="335" y="430" width="170" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="420.00" y="474.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">yes</text>
+<rect x="505" y="430" width="210" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="610.00" y="474.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">yes; f′(0)=0</text>
+<rect x="715" y="430" width="230" height="75" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="830.00" y="474.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">no</text>
+<text x="500.00" y="582.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The final row separates differentiability of the function from continuity of the derivative.</text>
+</svg>

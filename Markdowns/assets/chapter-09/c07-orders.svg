@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" role="img" aria-labelledby="title desc">
+<title id="title">Subtractions reveal the first surviving coefficient</title><desc id="desc">ExactTaylorcoefficientsforsinx-x+x³/6throughx5;errorO(x7).</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Subtractions reveal the first surviving coefficient</text>
+<rect x="65" y="115" width="270" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="154.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">Expression</text>
+<rect x="335" y="115" width="200" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="435.00" y="154.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">x coefficient</text>
+<rect x="535" y="115" width="200" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="635.00" y="154.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">x³ coefficient</text>
+<rect x="735" y="115" width="200" height="64" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="835.00" y="154.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="700">x⁵ coefficient</text>
+<rect x="65" y="179" width="270" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="218.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">sin x</text>
+<rect x="335" y="179" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="435.00" y="218.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="535" y="179" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="635.00" y="218.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">−1/6</text>
+<rect x="735" y="179" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="835.00" y="218.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1/120</text>
+<rect x="65" y="243" width="270" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="282.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">−x</text>
+<rect x="335" y="243" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="435.00" y="282.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">−1</text>
+<rect x="535" y="243" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="635.00" y="282.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="735" y="243" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="835.00" y="282.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="65" y="307" width="270" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="346.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">+ x³/6</text>
+<rect x="335" y="307" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="435.00" y="346.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="535" y="307" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="635.00" y="346.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1/6</text>
+<rect x="735" y="307" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="835.00" y="346.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="65" y="371" width="270" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="200.00" y="410.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">Total</text>
+<rect x="335" y="371" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="435.00" y="410.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="535" y="371" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="635.00" y="410.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="735" y="371" width="200" height="64" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="835.00" y="410.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="middle" font-weight="400">1/120</text>
+<text x="500.00" y="475.00" font-family="Arial,sans-serif" font-size="24" fill="#155e82" text-anchor="middle" font-weight="400">Divide by x⁵: the surviving coefficient gives the limit.</text>
+<text x="500.00" y="522.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">This is an exact coefficient table for a local expansion; the omitted remainder is O(x⁷).</text>
+</svg>

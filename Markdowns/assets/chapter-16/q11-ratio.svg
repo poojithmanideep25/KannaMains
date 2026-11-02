@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q11: positive intercepts are 2k and 3k</title><desc id="desc">Actual axis intercept triangle with the supplied point on its sloping side.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q11: positive intercepts are 2k and 3k</text>
+<polygon clip-path="url(#plot1)" points="106.99,428.01 295.50,428.01 106.99,145.24" fill="#dcecf4" stroke="none"/>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="240.66427289048474" height="350.0"/></clipPath></defs>
+<line x1="106.99" y1="450.00" x2="106.99" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="428.01" x2="325.66" y2="428.01" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="337.66" y="434.01" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="116.99" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">P = (4,3)</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">A = (2k,0); B = (0,3k)</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The triangle uses axes as legs.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Find k before finding area.</text>
+<line x1="106.99" y1="428.01" x2="295.50" y2="428.01" stroke="#718594" stroke-width="2.2"/>
+<line x1="106.99" y1="428.01" x2="106.99" y2="145.24" stroke="#718594" stroke-width="2.2"/>
+<line x1="85.00" y1="112.25" x2="310.16" y2="450.00" stroke="#155e82" stroke-width="2.5"/>
+<circle cx="295.50" cy="428.01" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="273.50" y="453.01" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">A</text>
+<circle cx="106.99" cy="145.24" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="66.99" y="150.24" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">B</text>
+<circle cx="232.67" cy="333.75" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="246.67" y="343.75" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">P</text>
+<circle cx="106.99" cy="428.01" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="81.99" y="451.01" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">O</text>
+<line x1="120.99" y1="428.01" x2="120.99" y2="414.01" stroke="#20394d" stroke-width="1.5"/>
+<line x1="120.99" y1="414.01" x2="106.99" y2="414.01" stroke="#20394d" stroke-width="1.5"/>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units on both axes; all positions come from the stated geometry.</text>
+</svg>

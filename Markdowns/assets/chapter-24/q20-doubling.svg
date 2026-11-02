@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q20: lengths double but squared lengths quadruple</title><desc id="desc">An original exact data/count table records the objects and quantities used in the solution.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q20: lengths double but squared lengths quadruple</text>
+<rect x="65" y="110" width="220" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">Quantity</text>
+<rect x="285" y="110" width="110" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="297.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">Original</text>
+<rect x="395" y="110" width="170" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="407.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">After doubling</text>
+<rect x="65" y="158" width="220" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Mean</text>
+<rect x="285" y="158" width="110" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="297.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">μ</text>
+<rect x="395" y="158" width="170" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="407.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">2μ</text>
+<rect x="65" y="206" width="220" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Variance</text>
+<rect x="285" y="206" width="110" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="297.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">v</text>
+<rect x="395" y="206" width="170" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="407.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">4v</text>
+<rect x="65" y="254" width="220" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Standard deviation</text>
+<rect x="285" y="254" width="110" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="297.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">s</text>
+<rect x="395" y="254" width="170" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="407.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">2s</text>
+<rect x="65" y="302" width="220" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">CV (defined)</text>
+<rect x="285" y="302" width="110" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="297.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">100s/μ</text>
+<rect x="395" y="302" width="170" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="407.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">100(2s)/(2μ)</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Every observation becomes2x.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">SD is a distance scale.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Variance is a squared-distance scale.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">CV keeps the same ratio.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">A zero mean has undefined CV.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Read each row with its header; the listed values are the quantities used in the solution.</text>
+</svg>

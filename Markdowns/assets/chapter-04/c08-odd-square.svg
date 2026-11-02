@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" role="img" aria-labelledby="title desc">
+<title id="title">Odd borders build a square</title><desc id="desc">Four-by-four array with one,three,five,seven cells added in successive L-shaped layers.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Odd borders build a square</text>
+<rect x="170" y="110" width="75" height="75" rx="0" fill="#1d6082" stroke="white" stroke-width="1.5"/>
+<rect x="245" y="110" width="75" height="75" rx="0" fill="#c2d8e4" stroke="white" stroke-width="1.5"/>
+<rect x="320" y="110" width="75" height="75" rx="0" fill="#e6b58c" stroke="white" stroke-width="1.5"/>
+<rect x="395" y="110" width="75" height="75" rx="0" fill="#e6edf2" stroke="white" stroke-width="1.5"/>
+<rect x="170" y="185" width="75" height="75" rx="0" fill="#c2d8e4" stroke="white" stroke-width="1.5"/>
+<rect x="245" y="185" width="75" height="75" rx="0" fill="#c2d8e4" stroke="white" stroke-width="1.5"/>
+<rect x="320" y="185" width="75" height="75" rx="0" fill="#e6b58c" stroke="white" stroke-width="1.5"/>
+<rect x="395" y="185" width="75" height="75" rx="0" fill="#e6edf2" stroke="white" stroke-width="1.5"/>
+<rect x="170" y="260" width="75" height="75" rx="0" fill="#e6b58c" stroke="white" stroke-width="1.5"/>
+<rect x="245" y="260" width="75" height="75" rx="0" fill="#e6b58c" stroke="white" stroke-width="1.5"/>
+<rect x="320" y="260" width="75" height="75" rx="0" fill="#e6b58c" stroke="white" stroke-width="1.5"/>
+<rect x="395" y="260" width="75" height="75" rx="0" fill="#e6edf2" stroke="white" stroke-width="1.5"/>
+<rect x="170" y="335" width="75" height="75" rx="0" fill="#e6edf2" stroke="white" stroke-width="1.5"/>
+<rect x="245" y="335" width="75" height="75" rx="0" fill="#e6edf2" stroke="white" stroke-width="1.5"/>
+<rect x="320" y="335" width="75" height="75" rx="0" fill="#e6edf2" stroke="white" stroke-width="1.5"/>
+<rect x="395" y="335" width="75" height="75" rx="0" fill="#e6edf2" stroke="white" stroke-width="1.5"/>
+<rect x="580" y="100" width="35" height="35" rx="0" fill="#1d6082" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="640.00" y="126.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="start" font-weight="400">1 new cell</text>
+<rect x="580" y="176" width="35" height="35" rx="0" fill="#c2d8e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="640.00" y="202.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="start" font-weight="400">3 new cells</text>
+<rect x="580" y="252" width="35" height="35" rx="0" fill="#e6b58c" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="640.00" y="278.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="start" font-weight="400">5 new cells</text>
+<rect x="580" y="328" width="35" height="35" rx="0" fill="#e6edf2" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="640.00" y="354.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="start" font-weight="400">7 new cells</text>
+<text x="500.00" y="465.00" font-family="Arial,sans-serif" font-size="25" fill="#20394d" text-anchor="middle" font-weight="400">1 + 3 + 5 + 7 = 4² = 16 cells</text>
+<text x="500.00" y="522.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">A new side-length n adds n² − (n−1)² = 2n−1 cells.</text>
+</svg>

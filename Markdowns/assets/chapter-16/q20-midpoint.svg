@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q20: midpoint (3,4) gives intercepts 6 and 8</title><desc id="desc">Actual axis intercept triangle with the supplied point on its sloping side.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q20: midpoint (3,4) gives intercepts 6 and 8</text>
+<polygon clip-path="url(#plot1)" points="109.55,425.45 319.97,425.45 109.55,144.89" fill="#dcecf4" stroke="none"/>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="268.6372745490982" height="350.0"/></clipPath></defs>
+<line x1="109.55" y1="450.00" x2="109.55" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="425.45" x2="353.64" y2="425.45" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="365.64" y="431.45" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="119.55" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">P = (3,4) is the midpoint.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">A = (6,0); B = (0,8)</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Use x/6 + y/8 = 1.</text>
+<line x1="109.55" y1="425.45" x2="319.97" y2="425.45" stroke="#718594" stroke-width="2.2"/>
+<line x1="109.55" y1="425.45" x2="109.55" y2="144.89" stroke="#718594" stroke-width="2.2"/>
+<line x1="85.00" y1="112.16" x2="338.38" y2="450.00" stroke="#155e82" stroke-width="2.5"/>
+<circle cx="319.97" cy="425.45" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="297.97" y="450.45" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">A</text>
+<circle cx="109.55" cy="144.89" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="69.55" y="149.89" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">B</text>
+<circle cx="214.76" cy="285.17" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="228.76" y="295.17" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">P</text>
+<circle cx="109.55" cy="425.45" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="84.55" y="448.45" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">O</text>
+<line x1="123.55" y1="425.45" x2="123.55" y2="411.45" stroke="#20394d" stroke-width="1.5"/>
+<line x1="123.55" y1="411.45" x2="109.55" y2="411.45" stroke="#20394d" stroke-width="1.5"/>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units on both axes; all positions come from the stated geometry.</text>
+</svg>

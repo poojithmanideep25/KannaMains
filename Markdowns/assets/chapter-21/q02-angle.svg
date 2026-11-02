@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q2: compare the directions in their own true plane</title><desc id="desc">True orthonormal plane section of saved original 3D coordinates,not the original xy-plane.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q2: compare the directions in their own true plane</text>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="479.99999999999994" height="283.73948554531563"/></clipPath></defs>
+<line x1="183.82" y1="383.74" x2="183.82" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="284.92" x2="565.00" y2="284.92" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="577.00" y="290.92" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">u</text>
+<text x="193.82" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">v</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">DR₁ = (2,3,6); DR₂ = (1,2,2)</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Arrows are normalized to</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">the same chosen display length.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Their angle is preserved.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Use the original norms 7 and 3.</text>
+<line x1="183.82" y1="284.92" x2="466.18" y2="284.92" stroke="#155e82" stroke-width="2.7" marker-end="url(#arrow)"/>
+<line x1="183.82" y1="284.92" x2="452.73" y2="198.82" stroke="#a04c13" stroke-width="2.7" marker-end="url(#arrow)"/>
+<circle cx="183.82" cy="284.92" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="158.82" y="309.92" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">O</text>
+<circle cx="466.18" cy="284.92" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="476.18" y="309.92" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">d₁</text>
+<circle cx="452.73" cy="198.82" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="462.73" y="183.82" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">d₂</text>
+<polyline clip-path="url(#plot1)" points="261.47,284.92 261.47,284.62 261.47,284.31 261.47,284.01 261.46,283.71 261.46,283.41 261.45,283.11 261.44,282.81 261.43,282.51 261.42,282.21 261.41,281.91 261.40,281.61 261.39,281.31 261.37,281.01 261.36,280.71 261.34,280.41 261.32,280.11 261.30,279.81 261.28,279.51 261.26,279.21 261.24,278.91 261.21,278.61 261.19,278.31 261.16,278.01 261.14,277.71 261.11,277.41 261.08,277.11 261.05,276.81 261.01,276.51 260.98,276.21 260.95,275.91 260.91,275.62 260.87,275.32 260.84,275.02 260.80,274.72 260.76,274.42 260.72,274.12 260.67,273.83 260.63,273.53 260.59,273.23 260.54,272.93 260.49,272.64 260.45,272.34 260.40,272.04 260.35,271.75 260.29,271.45 260.24,271.16 260.19,270.86 260.13,270.56 260.08,270.27 260.02,269.97 259.96,269.68 259.90,269.38 259.84,269.09 259.78,268.79 259.72,268.50 259.65,268.21 259.59,267.91 259.52,267.62 259.45,267.33 259.38,267.03 259.31,266.74 259.24,266.45 259.17,266.16 259.10,265.87 259.02,265.57 258.95,265.28 258.87,264.99 258.79,264.70 258.71,264.41 258.63,264.12 258.55,263.83 258.47,263.54 258.39,263.25 258.30,262.97 258.22,262.68 258.13,262.39 258.04,262.10 257.95,261.81 257.86,261.53 257.77,261.24" fill="none" stroke="#718594" stroke-width="2.7"/>
+<text x="301.92" y="256.03" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">θ</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units in a true plane inside 3D; u,v are not the original x,y axes.</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q3: shortest distance follows the plane normal</title><desc id="desc">True orthonormal plane section of saved original 3D coordinates,not the original xy-plane.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q3: shortest distance follows the plane normal</text>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="204.16666666666669" height="350.0"/></clipPath></defs>
+<line x1="187.08" y1="450.00" x2="187.08" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="202.08" x2="289.17" y2="202.08" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="301.17" y="208.08" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">u</text>
+<text x="197.08" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">v</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Plane: 2x − 2y + z = 5</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">P = (1,2,3)</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">PH is perpendicular to the plane.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">This is a true normal section.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Perpendicular length = 4/3</text>
+<line x1="85.00" y1="202.08" x2="289.17" y2="202.08" stroke="#718594" stroke-width="2.5"/>
+<line x1="187.08" y1="347.92" x2="187.08" y2="202.08" stroke="#a04c13" stroke-width="3"/>
+<circle cx="187.08" cy="347.92" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="202.08" y="332.92" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">P</text>
+<circle cx="187.08" cy="202.08" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="157.08" y="227.08" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">H</text>
+<line x1="201.08" y1="202.08" x2="201.08" y2="188.08" stroke="#20394d" stroke-width="1.5"/>
+<line x1="201.08" y1="188.08" x2="187.08" y2="188.08" stroke="#20394d" stroke-width="1.5"/>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units in a true plane inside 3D; u,v are not the original x,y axes.</text>
+</svg>

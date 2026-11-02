@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q17: turn the two given ratios into actual acute-angle triangles</title><desc id="desc">Right triangles generated from stated positive adjacent/opposite legs; equal units within each triangle,independent panel scales.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q17: turn the two given ratios into actual acute-angle triangles</text>
+<text x="75.00" y="105.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="700">Angle α</text>
+<line x1="75.00" y1="365.00" x2="295.00" y2="365.00" stroke="#20394d" stroke-width="2"/>
+<line x1="295.00" y1="365.00" x2="295.00" y2="333.57" stroke="#20394d" stroke-width="2"/>
+<line x1="75.00" y1="365.00" x2="295.00" y2="333.57" stroke="#155e82" stroke-width="2.7"/>
+<text x="185.00" y="395.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">7</text>
+<text x="307.00" y="354.29" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">1</text>
+<text x="185.00" y="324.29" font-family="Arial,sans-serif" font-size="18" fill="#155e82" text-anchor="middle" font-weight="400">√50</text>
+<line x1="283.00" y1="365.00" x2="283.00" y2="353.00" stroke="#718594" stroke-width="1.6"/>
+<line x1="283.00" y1="353.00" x2="295.00" y2="353.00" stroke="#718594" stroke-width="1.6"/>
+<polyline points="110.00,365.00 110.00,364.90 110.00,364.80 110.00,364.70 110.00,364.60 110.00,364.50 109.99,364.40 109.99,364.30 109.99,364.21 109.99,364.11 109.99,364.01 109.98,363.91 109.98,363.81 109.98,363.71 109.97,363.61 109.97,363.51 109.96,363.41 109.96,363.31 109.95,363.21 109.95,363.11 109.94,363.01 109.94,362.92 109.93,362.82 109.93,362.72 109.92,362.62 109.91,362.52 109.90,362.42 109.90,362.32 109.89,362.22 109.88,362.12 109.87,362.02 109.86,361.92 109.86,361.83 109.85,361.73 109.84,361.63 109.83,361.53 109.82,361.43 109.81,361.33 109.80,361.23 109.79,361.13 109.77,361.04 109.76,360.94 109.75,360.84 109.74,360.74 109.73,360.64 109.71,360.54 109.70,360.44 109.69,360.35 109.68,360.25 109.66,360.15 109.65,360.05" fill="none" stroke="#a04c13" stroke-width="1.7"/>
+<text x="115.00" y="315.00" font-family="Arial,sans-serif" font-size="18" fill="#a04c13" text-anchor="start" font-weight="400">α</text>
+<text x="360.00" y="105.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="700">Angle β</text>
+<line x1="360.00" y1="365.00" x2="580.00" y2="365.00" stroke="#20394d" stroke-width="2"/>
+<line x1="580.00" y1="365.00" x2="580.00" y2="291.67" stroke="#20394d" stroke-width="2"/>
+<line x1="360.00" y1="365.00" x2="580.00" y2="291.67" stroke="#155e82" stroke-width="2.7"/>
+<text x="470.00" y="395.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<text x="592.00" y="333.33" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">1</text>
+<text x="470.00" y="303.33" font-family="Arial,sans-serif" font-size="18" fill="#155e82" text-anchor="middle" font-weight="400">√10</text>
+<line x1="568.00" y1="365.00" x2="568.00" y2="353.00" stroke="#718594" stroke-width="1.6"/>
+<line x1="568.00" y1="353.00" x2="580.00" y2="353.00" stroke="#718594" stroke-width="1.6"/>
+<polyline points="395.00,365.00 395.00,364.77 395.00,364.55 394.99,364.32 394.99,364.10 394.98,363.87 394.97,363.65 394.96,363.42 394.95,363.20 394.94,362.97 394.93,362.75 394.91,362.52 394.90,362.30 394.88,362.08 394.86,361.85 394.84,361.63 394.81,361.40 394.79,361.18 394.77,360.96 394.74,360.73 394.71,360.51 394.68,360.28 394.65,360.06 394.62,359.84 394.58,359.62 394.55,359.39 394.51,359.17 394.47,358.95 394.43,358.73 394.39,358.51 394.35,358.29 394.31,358.06 394.26,357.84 394.21,357.62 394.17,357.40 394.12,357.18 394.07,356.96 394.01,356.75 393.96,356.53 393.90,356.31 393.85,356.09 393.79,355.87 393.73,355.66 393.67,355.44 393.61,355.22 393.54,355.01 393.48,354.79 393.41,354.58 393.34,354.36 393.27,354.15 393.20,353.93" fill="none" stroke="#a04c13" stroke-width="1.7"/>
+<text x="400.00" y="315.00" font-family="Arial,sans-serif" font-size="18" fill="#a04c13" text-anchor="start" font-weight="400">β</text>
+<text x="675.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Left:tan α=1/7.</text>
+<text x="675.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Right:sin β=1/√10.</text>
+<text x="675.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Hence tan β=1/3.</text>
+<text x="675.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Then tan2β=3/4.</text>
+<text x="675.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The angle sum has tangent1.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The right-angle square joins the two legs. Each triangle has equal horizontal/vertical units within its panel.</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 550" role="img" aria-labelledby="title desc">
+<title id="title">Unlabelled groups: remove the temporary group names</title><desc id="desc">One partition intoP,Q,Rfour-personsets has6temporaryA,B,C labelassignments.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Unlabelled groups: remove the temporary group names</text>
+<text x="500.00" y="100.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="middle" font-weight="400">One fixed partition: P={1,2,3,4}, Q={5,6,7,8}, R={9,10,11,12}</text>
+<rect x="80" y="185" width="280" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="220.00" y="227.00" font-family="Arial,sans-serif" font-size="21" fill="#155e82" text-anchor="middle" font-weight="400">A=P, B=Q, C=R</text>
+<rect x="395" y="185" width="280" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="535.00" y="227.00" font-family="Arial,sans-serif" font-size="21" fill="#155e82" text-anchor="middle" font-weight="400">A=P, B=R, C=Q</text>
+<rect x="710" y="185" width="280" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="850.00" y="227.00" font-family="Arial,sans-serif" font-size="21" fill="#155e82" text-anchor="middle" font-weight="400">A=Q, B=P, C=R</text>
+<rect x="80" y="310" width="280" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="220.00" y="352.00" font-family="Arial,sans-serif" font-size="21" fill="#155e82" text-anchor="middle" font-weight="400">A=Q, B=R, C=P</text>
+<rect x="395" y="310" width="280" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="535.00" y="352.00" font-family="Arial,sans-serif" font-size="21" fill="#155e82" text-anchor="middle" font-weight="400">A=R, B=P, C=Q</text>
+<rect x="710" y="310" width="280" height="70" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="850.00" y="352.00" font-family="Arial,sans-serif" font-size="21" fill="#155e82" text-anchor="middle" font-weight="400">A=R, B=Q, C=P</text>
+<text x="500.00" y="470.00" font-family="Arial,sans-serif" font-size="22" fill="#155e82" text-anchor="middle" font-weight="400">All 3! = 6 label assignments describe the SAME unlabelled partition.</text>
+<text x="500.00" y="532.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Remove internal orders with (4!)³, then remove group labels with 3!.</text>
+</svg>

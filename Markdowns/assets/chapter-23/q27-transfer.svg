@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+<title id="title">Q27: update Urn II after each possible transfer</title><desc id="desc">An exact two-stage probability tree; branch probabilities are explicit and joint leaf weights are multiplied.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q27: update Urn II after each possible transfer</text>
+<circle cx="90.00" cy="330.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="50.00" y="300.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Start</text>
+<text x="500.00" y="78.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Multiply along a path. Add disjoint paths to the same observation.</text>
+<line x1="90.00" y1="330.00" x2="350.00" y2="180.00" stroke="#718594" stroke-width="2.2"/>
+<circle cx="350.00" cy="180.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="200.00" y="237.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="middle" font-weight="400">2/5</text>
+<text x="350.00" y="115.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="700">Transfer white</text>
+<line x1="350.00" y1="180.00" x2="745.00" y2="135.00" stroke="#155e82" stroke-width="2.6"/>
+<circle cx="745.00" cy="135.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="535.00" y="137.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">white: 5/6</text>
+<text x="770.00" y="141.00" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">joint 1/3</text>
+<line x1="350.00" y1="180.00" x2="745.00" y2="225.00" stroke="#718594" stroke-width="2.6"/>
+<circle cx="745.00" cy="225.00" r="4.8" fill="#718594" stroke="#718594" stroke-width="2"/>
+<text x="535.00" y="233.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">not white: 1/6</text>
+<text x="770.00" y="231.00" font-family="Arial,sans-serif" font-size="19" fill="#718594" text-anchor="start" font-weight="400">joint 1/15</text>
+<line x1="90.00" y1="330.00" x2="350.00" y2="480.00" stroke="#718594" stroke-width="2.2"/>
+<circle cx="350.00" cy="480.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="200.00" y="387.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="middle" font-weight="400">3/5</text>
+<text x="350.00" y="415.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="700">Transfer black</text>
+<line x1="350.00" y1="480.00" x2="745.00" y2="435.00" stroke="#155e82" stroke-width="2.6"/>
+<circle cx="745.00" cy="435.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="535.00" y="437.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">white: 2/3</text>
+<text x="770.00" y="441.00" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">joint 2/5</text>
+<line x1="350.00" y1="480.00" x2="745.00" y2="525.00" stroke="#718594" stroke-width="2.6"/>
+<circle cx="745.00" cy="525.00" r="4.8" fill="#718594" stroke="#718594" stroke-width="2"/>
+<text x="535.00" y="533.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">not white: 1/3</text>
+<text x="770.00" y="531.00" font-family="Arial,sans-serif" font-size="19" fill="#718594" text-anchor="start" font-weight="400">joint 1/5</text>
+<text x="500.00" y="565.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Urn II has six balls after either transfer.</text>
+<text x="500.00" y="592.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Add the two white paths: 1/3+2/5 = 11/15.</text>
+<text x="500.00" y="632.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Branch lengths show stages only; use the written probabilities, not the apparent lengths.</text>
+</svg>

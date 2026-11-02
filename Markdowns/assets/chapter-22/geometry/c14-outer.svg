@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+<title id="title">Then: a × d gives the final vector</title><desc id="desc">Orthographic view of the actual two-vector plane. The normal arrow indicates direction; its drawn length is chosen for clarity.</desc>
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#155e82"/></marker>
+<marker id="orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#a04c13"/></marker>
+<marker id="ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker>
+<marker id="gray" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#718594"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="33.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Then: a × d gives the final vector</text>
+<polygon points="455.16,410.00 622.13,295.15 544.84,241.98 377.87,356.83" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.6"/>
+<line x1="455.16" y1="410.00" x2="622.13" y2="295.15" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<circle cx="622.13" cy="295.15" r="4.5" fill="#20394d"/>
+<text x="634.13" y="317.15" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">a</text>
+<line x1="455.16" y1="410.00" x2="377.87" y2="356.83" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<circle cx="377.87" cy="356.83" r="4.5" fill="#20394d"/>
+<text x="355.87" y="356.83" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">d</text>
+<line x1="622.13" y1="295.15" x2="544.84" y2="241.98" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="377.87" y1="356.83" x2="544.84" y2="241.98" stroke="#718594" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="455.16" y1="410.00" x2="455.16" y2="100.00" stroke="#20394d" stroke-width="3.3" stroke-linecap="round" marker-end="url(#ink)"/>
+<circle cx="455.16" cy="410.00" r="4.5" fill="#20394d"/>
+<text x="431.16" y="430.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">O</text>
+<text x="467.16" y="92.00" font-family="Arial,sans-serif" font-size="22" fill="#20394d" text-anchor="start" font-weight="700">a × d</text>
+<text x="500.00" y="482.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The normal is perpendicular to both input arrows. Its drawn length only shows direction.</text>
+</svg>

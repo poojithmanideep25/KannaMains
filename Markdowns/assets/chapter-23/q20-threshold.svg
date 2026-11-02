@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q20: compare the two integers around the target</title><desc id="desc">Exact independent fair-toss probability1−2^(−n) at integer trial counts; lines are guides only.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q20: compare the two integers around the target</text>
+<defs><clipPath id="plot1"><rect x="85" y="120" width="480" height="310"/></clipPath></defs>
+<line x1="85.00" y1="430.00" x2="85.00" y2="120.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="138.33" y1="426.00" x2="138.33" y2="434.00" stroke="#718594" stroke-width="1"/>
+<text x="138.33" y="453.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="191.67" y1="426.00" x2="191.67" y2="434.00" stroke="#718594" stroke-width="1"/>
+<text x="191.67" y="453.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="245.00" y1="426.00" x2="245.00" y2="434.00" stroke="#718594" stroke-width="1"/>
+<text x="245.00" y="453.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<line x1="298.33" y1="426.00" x2="298.33" y2="434.00" stroke="#718594" stroke-width="1"/>
+<text x="298.33" y="453.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<line x1="351.67" y1="426.00" x2="351.67" y2="434.00" stroke="#718594" stroke-width="1"/>
+<text x="351.67" y="453.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<line x1="405.00" y1="426.00" x2="405.00" y2="434.00" stroke="#718594" stroke-width="1"/>
+<text x="405.00" y="453.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">6</text>
+<line x1="458.33" y1="426.00" x2="458.33" y2="434.00" stroke="#718594" stroke-width="1"/>
+<text x="458.33" y="453.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">7</text>
+<line x1="511.67" y1="426.00" x2="511.67" y2="434.00" stroke="#718594" stroke-width="1"/>
+<text x="511.67" y="453.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">8</text>
+<text x="95.00" y="128.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<text x="85.00" y="85.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Chance of at least one head</text>
+<text x="325.00" y="485.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Number of tosses n (integers)</text>
+<text x="85.00" y="107.00" font-family="Arial,sans-serif" font-size="16" fill="#718594" text-anchor="start" font-weight="400">Vertical window: 0.45 to 1.03</text>
+<line x1="85.00" y1="141.38" x2="565.00" y2="141.38" stroke="#a04c13" stroke-width="1.7" stroke-dasharray="7 5"/>
+<circle cx="138.33" cy="403.28" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="191.67" cy="269.66" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="245.00" cy="202.84" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="298.33" cy="169.44" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="351.67" cy="152.74" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="405.00" cy="144.39" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="458.33" cy="140.21" r="4.8" fill="#a33434" stroke="#a33434" stroke-width="2"/>
+<circle cx="511.67" cy="138.12" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="401.00" y="176.39" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">6</text>
+<text x="466.33" y="125.21" font-family="Arial,sans-serif" font-size="18" fill="#a33434" text-anchor="start" font-weight="400">7</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Orange dashed: target 0.99.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">n=6 gives 63/64 = 0.984375.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">n=7 gives 127/128 = 0.9921875.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Six fails; seven works.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Dots, not fractional n, are trials.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The exact power comparison proves the least integer; the plotted dots illustrate it.</text>
+</svg>

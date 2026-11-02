@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q20: the line is the axis of a half-turn</title><desc id="desc">True orthonormal plane section of saved original 3D coordinates,not the original xy-plane.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q20: the line is the axis of a half-turn</text>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="190.9090909090909" height="350.0"/></clipPath></defs>
+<line x1="180.45" y1="450.00" x2="180.45" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="275.00" x2="275.91" y2="275.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="287.91" y="281.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">u</text>
+<text x="190.45" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">v</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Blue horizontal: line x = y = z</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">P = (1,2,3)</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">H = (2,2,2)</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">P′ = (3,2,1)</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The line is not a plane.</text>
+<line x1="85.00" y1="275.00" x2="275.91" y2="275.00" stroke="#155e82" stroke-width="2.5"/>
+<line x1="180.45" y1="195.45" x2="180.45" y2="354.55" stroke="#a04c13" stroke-width="3"/>
+<line x1="194.45" y1="275.00" x2="194.45" y2="261.00" stroke="#20394d" stroke-width="1.5"/>
+<line x1="194.45" y1="261.00" x2="180.45" y2="261.00" stroke="#20394d" stroke-width="1.5"/>
+<circle cx="180.45" cy="195.45" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="195.45" y="180.45" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">P</text>
+<circle cx="180.45" cy="275.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="150.45" y="300.00" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">H</text>
+<circle cx="180.45" cy="354.55" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="195.45" y="379.55" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">P′</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units in a true plane inside 3D; u,v are not the original x,y axes.</text>
+</svg>

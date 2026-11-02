@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+<title id="title">Distance sum two: every point lies between the foci</title><desc id="desc">The complete locus is the closed real segment from minus one to one.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Distance sum two: every point lies between the foci</text>
+<defs><clipPath id="plot1"><rect x="250" y="100" width="500" height="500"/></clipPath></defs>
+<line x1="500.00" y1="600.00" x2="500.00" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="250.00" y1="350.00" x2="750.00" y2="350.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="361.11" y1="346.00" x2="361.11" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="361.11" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">−1</text>
+<line x1="500.00" y1="346.00" x2="500.00" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="500.00" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<line x1="638.89" y1="346.00" x2="638.89" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="638.89" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="496.00" y1="488.89" x2="504.00" y2="488.89" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="493.89" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">−1</text>
+<line x1="496.00" y1="211.11" x2="504.00" y2="211.11" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="216.11" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">1</text>
+<text x="762.00" y="356.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Re z</text>
+<text x="510.00" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Im z</text>
+<line x1="361.11" y1="350.00" x2="638.89" y2="350.00" stroke="#155e82" stroke-width="5"/>
+<circle cx="361.11" cy="350.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="638.89" cy="350.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="548.61" cy="350.00" r="4.8" fill="#a04c13" stroke="#a04c13" stroke-width="2"/>
+<text x="558.61" y="325.00" font-family="Arial,sans-serif" font-size="19" fill="#a04c13" text-anchor="start" font-weight="400">P</text>
+<text x="500.00" y="632.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The two distances are 1.35 and 0.65 here: total 2. Moving off the segment makes the route longer.</text>
+</svg>

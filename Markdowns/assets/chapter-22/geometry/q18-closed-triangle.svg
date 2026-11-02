@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+<title id="title">Q18: three equal arrows close a triangle</title><desc id="desc">Three unit vectors at 120 degrees are placed head to tail in an equilateral closed triangle.</desc>
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#155e82"/></marker>
+<marker id="orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#a04c13"/></marker>
+<marker id="ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker>
+<marker id="gray" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#718594"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="33.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q18: three equal arrows close a triangle</text>
+<line x1="300.00" y1="350.00" x2="650.00" y2="350.00" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<text x="485.00" y="378.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="start" font-weight="700">a</text>
+<line x1="650.00" y1="350.00" x2="475.00" y2="46.89" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<text x="572.50" y="186.45" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="start" font-weight="700">b</text>
+<line x1="475.00" y1="46.89" x2="300.00" y2="350.00" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#blue)"/>
+<text x="355.50" y="186.45" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="start" font-weight="700">c</text>
+<circle cx="300.00" cy="350.00" r="4.5" fill="#20394d"/>
+<text x="235.00" y="408.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="700">start = finish</text>
+<text x="500.00" y="482.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The movement returns to the starting point, so a + b + c = 0.</text>
+</svg>

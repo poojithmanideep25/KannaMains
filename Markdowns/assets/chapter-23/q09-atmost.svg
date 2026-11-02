@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q9: at most two includes zero, one and two</title><desc id="desc">Discrete bars from explicit source counts or exact probability weights; no continuous interpolation.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q9: at most two includes zero, one and two</text>
+<defs><clipPath id="plot1"><rect x="85" y="125" width="480" height="300"/></clipPath></defs>
+<line x1="85.00" y1="425.00" x2="565.00" y2="425.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="577.00" y="431.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<text x="124.47" y="133.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<line x1="85.00" y1="425.00" x2="85.00" y2="125.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="90.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Probability</text>
+<text x="325.00" y="480.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Number of successes r</text>
+<text x="73.00" y="430.00" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0</text>
+<text x="73.00" y="314.62" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0.123</text>
+<text x="73.00" y="199.23" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0.246</text>
+<rect x="100.57894736842105" y="424.0842490842491" width="27.789473684210535" height="0.9157509157508912" rx="0" fill="#a04c13" stroke="#20394d" stroke-width="1.5"/>
+<text x="114.47" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="142.68421052631578" y="415.84249084249086" width="27.789473684210577" height="9.15750915750914" rx="0" fill="#a04c13" stroke="#20394d" stroke-width="1.5"/>
+<text x="156.58" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="184.78947368421055" y="383.7912087912088" width="27.78947368421052" height="41.20879120879118" rx="0" fill="#a04c13" stroke="#20394d" stroke-width="1.5"/>
+<text x="198.68" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<rect x="226.8947368421053" y="315.1098901098901" width="27.78947368421052" height="109.8901098901099" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="240.79" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="269.0" y="232.6923076923077" width="27.789473684210577" height="192.3076923076923" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="282.89" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<rect x="311.1052631578948" y="194.23076923076923" width="27.78947368421052" height="230.76923076923077" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="325.00" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<rect x="353.2105263157895" y="232.6923076923077" width="27.789473684210577" height="192.3076923076923" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="367.11" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">6</text>
+<rect x="395.3157894736843" y="315.1098901098901" width="27.78947368421052" height="109.8901098901099" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="409.21" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">7</text>
+<rect x="437.42105263157896" y="383.7912087912088" width="27.78947368421052" height="41.20879120879118" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="451.32" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">8</text>
+<rect x="479.5263157894737" y="415.84249084249086" width="27.78947368421052" height="9.15750915750914" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="493.42" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">9</text>
+<rect x="521.6315789473684" y="424.0842490842491" width="27.78947368421052" height="0.9157509157508912" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="535.53" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">10</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Selected counts: r=0,1,2.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Their sequence counts are 1,10,45.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Total selected = 56 out of 1024.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Exact probability = 7/128.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Separate bars are possible values; their heights come from the saved exact data.</text>
+</svg>

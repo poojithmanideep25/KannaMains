@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q15: apply all dual swaps while preserving letters and NOT</title><desc id="desc">An original exact data/count table records the objects and quantities used in the solution.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q15: apply all dual swaps while preserving letters and NOT</text>
+<rect x="65" y="110" width="250" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">Original token</text>
+<rect x="315" y="110" width="250" height="48" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="142.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="700">Dual token</text>
+<rect x="65" y="158" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">p</text>
+<rect x="315" y="158" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="190.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">p</text>
+<rect x="65" y="206" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">NOT q</text>
+<rect x="315" y="206" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="238.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">NOT q</text>
+<rect x="65" y="254" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">AND</text>
+<rect x="315" y="254" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="286.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">OR</text>
+<rect x="65" y="302" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">OR</text>
+<rect x="315" y="302" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="334.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">AND</text>
+<rect x="65" y="350" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="77.00" y="382.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">t(always true)</text>
+<rect x="315" y="350" width="250" height="48" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="327.00" y="382.16" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">c(always false)</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Start:(p AND NOT q)OR t.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Dual:(p OR NOT q)AND c.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The existing NOT stays.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Letters are not negated.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Dualizing twice restores the original.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Read each row with its header; the listed values are the quantities used in the solution.</text>
+</svg>

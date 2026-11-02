@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q29: one point has two coordinate descriptions</title><desc id="desc">The origin shifts to(1,2),axesremainparallel,andgeometricline2x+3y12doesnotmove.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q29: one point has two coordinate descriptions</text>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="408.33333333333337" height="350.0"/></clipPath></defs>
+<line x1="143.33" y1="450.00" x2="143.33" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="391.67" x2="493.33" y2="391.67" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="505.33" y="397.67" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="153.33" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Old origin: O = (0,0)</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">New origin: O′ = (1,2)</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Blue: 2x + 3y = 12</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Orange: new axes, no rotation</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Old x = X + 1; old y = Y + 2</text>
+<line x1="85.00" y1="119.44" x2="493.33" y2="391.67" stroke="#155e82" stroke-width="2.5"/>
+<line x1="201.67" y1="450.00" x2="201.67" y2="100.00" stroke="#a04c13" stroke-width="2.5" stroke-dasharray="7 5"/>
+<line x1="85.00" y1="275.00" x2="493.33" y2="275.00" stroke="#a04c13" stroke-width="2.5" stroke-dasharray="7 5"/>
+<circle cx="143.33" cy="391.67" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="118.33" y="414.67" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">O</text>
+<circle cx="201.67" cy="275.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="171.67" y="263.00" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">O′</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units on both axes; all positions come from the stated geometry.</text>
+</svg>

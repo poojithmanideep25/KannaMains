@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q39: opposite signed heights give an internal crossing</title><desc id="desc">True orthonormal plane section of saved original 3D coordinates,not the original xy-plane.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q39: opposite signed heights give an internal crossing</text>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="363.0256953910458" height="350.0"/></clipPath></defs>
+<line x1="252.11" y1="450.00" x2="252.11" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="261.52" x2="448.03" y2="261.52" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="460.03" y="267.52" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">u</text>
+<text x="262.11" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">v</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">A = (1,2,3); B = (2,−1,−2)</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Horizontal trace: x+y+z = 3</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">f(A) = 3; f(B) = −4</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">P lies between A and B.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">AP:PB = 3:4.</text>
+<line x1="85.00" y1="261.52" x2="448.03" y2="261.52" stroke="#718594" stroke-width="2.5"/>
+<line x1="165.67" y1="180.67" x2="367.35" y2="369.33" stroke="#155e82" stroke-width="3"/>
+<circle cx="165.67" cy="180.67" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="135.67" y="165.67" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">A</text>
+<circle cx="252.11" cy="261.52" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="267.11" y="286.52" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">P</text>
+<circle cx="367.35" cy="369.33" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="382.35" y="394.33" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">B</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units in a true plane inside 3D; u,v are not the original x,y axes.</text>
+</svg>

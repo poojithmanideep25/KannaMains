@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Same centre does not mean the same spread</title><desc id="desc">Actual horizontal data coordinates; vertical stacking only records repeated observations. Compatible illustrative data are labelled explicitly.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Same centre does not mean the same spread</text>
+<line x1="85.00" y1="220.00" x2="565.00" y2="220.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="70.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">A: narrow data</text>
+<line x1="153.57" y1="216.00" x2="153.57" y2="224.00" stroke="#718594" stroke-width="1"/>
+<text x="153.57" y="246.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="282.14" y1="216.00" x2="282.14" y2="224.00" stroke="#718594" stroke-width="1"/>
+<text x="282.14" y="246.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<line x1="325.00" y1="216.00" x2="325.00" y2="224.00" stroke="#718594" stroke-width="1"/>
+<text x="325.00" y="246.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<line x1="367.86" y1="216.00" x2="367.86" y2="224.00" stroke="#718594" stroke-width="1"/>
+<text x="367.86" y="246.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">6</text>
+<line x1="496.43" y1="216.00" x2="496.43" y2="224.00" stroke="#718594" stroke-width="1"/>
+<text x="496.43" y="246.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">9</text>
+<line x1="325.00" y1="105.00" x2="325.00" y2="225.00" stroke="#a33434" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="325.00" y="95.00" font-family="Arial,sans-serif" font-size="17" fill="#a33434" text-anchor="middle" font-weight="400">mean 5</text>
+<circle cx="282.14" cy="202.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="325.00" cy="202.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="367.86" cy="202.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<line x1="85.00" y1="420.00" x2="565.00" y2="420.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="270.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">B: wider data</text>
+<line x1="153.57" y1="416.00" x2="153.57" y2="424.00" stroke="#718594" stroke-width="1"/>
+<text x="153.57" y="446.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="282.14" y1="416.00" x2="282.14" y2="424.00" stroke="#718594" stroke-width="1"/>
+<text x="282.14" y="446.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<line x1="325.00" y1="416.00" x2="325.00" y2="424.00" stroke="#718594" stroke-width="1"/>
+<text x="325.00" y="446.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<line x1="367.86" y1="416.00" x2="367.86" y2="424.00" stroke="#718594" stroke-width="1"/>
+<text x="367.86" y="446.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">6</text>
+<line x1="496.43" y1="416.00" x2="496.43" y2="424.00" stroke="#718594" stroke-width="1"/>
+<text x="496.43" y="446.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">9</text>
+<line x1="325.00" y1="305.00" x2="325.00" y2="425.00" stroke="#a33434" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="325.00" y="295.00" font-family="Arial,sans-serif" font-size="17" fill="#a33434" text-anchor="middle" font-weight="400">mean 5</text>
+<circle cx="153.57" cy="402.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="325.00" cy="402.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<circle cx="496.43" cy="402.00" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Both means are5.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">A squared deviations:1,0,1.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">B squared deviations:16,0,16.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">VarianceA = 2/3.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">VarianceB = 32/3.</text>
+<text x="635.00" y="330.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">All horizontal scales are the same.</text>
+<text x="325.00" y="490.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Horizontal position = observation value</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">One dot is one observation. Vertical stacking shows repetitions,not a second measured quantity.</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+<title id="title">Choose the quadrant before choosing the angle</title><desc id="desc">The actual question point is minus square root three plus i, at length two and principal angle five pi over six.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Choose the quadrant before choosing the angle</text>
+<defs><clipPath id="plot1"><rect x="250" y="100" width="500" height="500"/></clipPath></defs>
+<line x1="500.00" y1="600.00" x2="500.00" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="250.00" y1="350.00" x2="750.00" y2="350.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="307.69" y1="346.00" x2="307.69" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="307.69" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">−2</text>
+<line x1="403.85" y1="346.00" x2="403.85" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="403.85" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">−1</text>
+<line x1="500.00" y1="346.00" x2="500.00" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="500.00" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<line x1="596.15" y1="346.00" x2="596.15" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="596.15" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<line x1="692.31" y1="346.00" x2="692.31" y2="354.00" stroke="#718594" stroke-width="1"/>
+<text x="692.31" y="373.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="496.00" y1="542.31" x2="504.00" y2="542.31" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="547.31" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">−2</text>
+<line x1="496.00" y1="446.15" x2="504.00" y2="446.15" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="451.15" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">−1</text>
+<line x1="496.00" y1="253.85" x2="504.00" y2="253.85" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="258.85" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">1</text>
+<line x1="496.00" y1="157.69" x2="504.00" y2="157.69" stroke="#718594" stroke-width="1"/>
+<text x="490.00" y="162.69" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="end" font-weight="400">2</text>
+<text x="762.00" y="356.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Re z</text>
+<text x="510.00" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Im z</text>
+<line x1="500.00" y1="350.00" x2="333.46" y2="253.85" stroke="#155e82" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="333.46" cy="253.85" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="233.46" y="235.85" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">−√3 + i</text>
+<polyline clip-path="url(#plot1)" points="567.31,350.00 567.30,348.83 567.27,347.65 567.22,346.48 567.14,345.30 567.05,344.13 566.94,342.96 566.81,341.80 566.65,340.63 566.48,339.47 566.29,338.31 566.07,337.16 565.84,336.01 565.58,334.86 565.31,333.72 565.01,332.58 564.70,331.45 564.37,330.32 564.01,329.20 563.64,328.09 563.25,326.98 562.84,325.88 562.41,324.79 561.96,323.70 561.49,322.62 561.00,321.55 560.50,320.49 559.97,319.44 559.43,318.40 558.87,317.37 558.29,316.35 557.69,315.33 557.08,314.33 556.45,313.34 555.80,312.36 555.14,311.39 554.45,310.44 553.75,309.49 553.04,308.56 552.31,307.64 551.56,306.74 550.80,305.84 550.02,304.96 549.23,304.10 548.42,303.24 547.59,302.41 546.76,301.58 545.90,300.77 545.04,299.98 544.16,299.20 543.26,298.44 542.36,297.69 541.44,296.96 540.51,296.25 539.56,295.55 538.61,294.86 537.64,294.20 536.66,293.55 535.67,292.92 534.67,292.31 533.65,291.71 532.63,291.13 531.60,290.57 530.56,290.03 529.51,289.50 528.45,289.00 527.38,288.51 526.30,288.04 525.21,287.59 524.12,287.16 523.02,286.75 521.91,286.36 520.80,285.99 519.68,285.63 518.55,285.30 517.42,284.99 516.28,284.69 515.14,284.42 513.99,284.16 512.84,283.93 511.69,283.71 510.53,283.52 509.37,283.35 508.20,283.19 507.04,283.06 505.87,282.95 504.70,282.86 503.52,282.78 502.35,282.73 501.17,282.70 500.00,282.69 498.83,282.70 497.65,282.73 496.48,282.78 495.30,282.86 494.13,282.95 492.96,283.06 491.80,283.19 490.63,283.35 489.47,283.52 488.31,283.71 487.16,283.93 486.01,284.16 484.86,284.42 483.72,284.69 482.58,284.99 481.45,285.30 480.32,285.63 479.20,285.99 478.09,286.36 476.98,286.75 475.88,287.16 474.79,287.59 473.70,288.04 472.62,288.51 471.55,289.00 470.49,289.50 469.44,290.03 468.40,290.57 467.37,291.13 466.35,291.71 465.33,292.31 464.33,292.92 463.34,293.55 462.36,294.20 461.39,294.86 460.44,295.55 459.49,296.25 458.56,296.96 457.64,297.69 456.74,298.44 455.84,299.20 454.96,299.98 454.10,300.77 453.24,301.58 452.41,302.41 451.58,303.24 450.77,304.10 449.98,304.96 449.20,305.84 448.44,306.74 447.69,307.64 446.96,308.56 446.25,309.49 445.55,310.44 444.86,311.39 444.20,312.36 443.55,313.34 442.92,314.33 442.31,315.33 441.71,316.35" fill="none" stroke="#a04c13" stroke-width="2.7"/>
+<text x="785.00" y="180.00" font-family="Arial,sans-serif" font-size="21" fill="#20394d" text-anchor="start" font-weight="400">Quadrant II</text>
+<text x="785.00" y="220.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="400">Length = 2</text>
+<text x="785.00" y="260.00" font-family="Arial,sans-serif" font-size="20" fill="#a04c13" text-anchor="start" font-weight="400">Angle = 5π/6</text>
+<text x="500.00" y="632.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The reference angle is π/6. The direction from the positive real axis is π − π/6.</text>
+</svg>

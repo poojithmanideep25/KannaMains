@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 830" role="img" aria-labelledby="title desc">
+<title id="title">A function gives each input exactly one output</title><desc id="desc">A valid function may leave target values unused or send two inputs to one output. An input with two outputs is invalid.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">A function gives each input exactly one output</text>
+<text x="250.00" y="80.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="middle" font-weight="700">One-one; d is unused</text>
+<ellipse cx="140" cy="260" rx="70" ry="135" fill="#edf3f7" stroke="#155e82" stroke-width="1.6"/><ellipse cx="360" cy="260" rx="70" ry="135" fill="#edf3f7" stroke="#155e82" stroke-width="1.6"/>
+<line x1="158.00" y1="205.00" x2="342.00" y2="177.50" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="158.00" y1="260.00" x2="342.00" y2="232.50" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="158.00" y1="315.00" x2="342.00" y2="287.50" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<text x="140.00" y="211.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">1</text>
+<text x="140.00" y="266.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">2</text>
+<text x="140.00" y="321.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">3</text>
+<text x="360.00" y="183.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">a</text>
+<text x="360.00" y="238.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">b</text>
+<text x="360.00" y="293.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">c</text>
+<text x="360.00" y="348.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">d</text>
+<text x="140.00" y="415.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">input set A</text>
+<text x="360.00" y="415.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">target set B</text>
+<text x="750.00" y="80.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="middle" font-weight="700">Onto; inputs 1 and 2 share a</text>
+<ellipse cx="640" cy="260" rx="70" ry="135" fill="#edf3f7" stroke="#155e82" stroke-width="1.6"/><ellipse cx="860" cy="260" rx="70" ry="135" fill="#edf3f7" stroke="#155e82" stroke-width="1.6"/>
+<line x1="658.00" y1="177.50" x2="842.00" y2="205.00" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="658.00" y1="232.50" x2="842.00" y2="205.00" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="658.00" y1="287.50" x2="842.00" y2="260.00" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="658.00" y1="342.50" x2="842.00" y2="315.00" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<text x="640.00" y="183.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">1</text>
+<text x="640.00" y="238.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">2</text>
+<text x="640.00" y="293.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">3</text>
+<text x="640.00" y="348.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">4</text>
+<text x="860.00" y="211.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">a</text>
+<text x="860.00" y="266.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">b</text>
+<text x="860.00" y="321.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">c</text>
+<text x="640.00" y="415.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">input set A</text>
+<text x="860.00" y="415.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">target set B</text>
+<text x="250.00" y="460.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="middle" font-weight="700">One-one and onto</text>
+<ellipse cx="140" cy="640" rx="70" ry="135" fill="#edf3f7" stroke="#155e82" stroke-width="1.6"/><ellipse cx="360" cy="640" rx="70" ry="135" fill="#edf3f7" stroke="#155e82" stroke-width="1.6"/>
+<line x1="158.00" y1="585.00" x2="342.00" y2="585.00" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="158.00" y1="640.00" x2="342.00" y2="640.00" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="158.00" y1="695.00" x2="342.00" y2="695.00" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<text x="140.00" y="591.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">1</text>
+<text x="140.00" y="646.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">2</text>
+<text x="140.00" y="701.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">3</text>
+<text x="360.00" y="591.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">a</text>
+<text x="360.00" y="646.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">b</text>
+<text x="360.00" y="701.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">c</text>
+<text x="140.00" y="795.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">input set A</text>
+<text x="360.00" y="795.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">target set B</text>
+<text x="750.00" y="460.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="middle" font-weight="700">Not a function: input 1 has two outputs</text>
+<ellipse cx="640" cy="640" rx="70" ry="135" fill="#edf3f7" stroke="#155e82" stroke-width="1.6"/><ellipse cx="860" cy="640" rx="70" ry="135" fill="#edf3f7" stroke="#155e82" stroke-width="1.6"/>
+<line x1="658.00" y1="612.50" x2="842.00" y2="612.50" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="658.00" y1="612.50" x2="842.00" y2="667.50" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<line x1="658.00" y1="667.50" x2="842.00" y2="667.50" stroke="#20394d" stroke-width="1.9" marker-end="url(#arrow)"/>
+<text x="640.00" y="618.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">1</text>
+<text x="640.00" y="673.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">2</text>
+<text x="860.00" y="618.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">a</text>
+<text x="860.00" y="673.50" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">b</text>
+<text x="640.00" y="795.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">input set A</text>
+<text x="860.00" y="795.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">target set B</text>
+</svg>

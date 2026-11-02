@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q5: three rows have a true condition and a false result</title><desc id="desc">Complete exhaustive truth assignments with explicit T/F values; row shading aids reading and does not assume a probability model.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q5: three rows have a true condition and a false result</text>
+<rect x="65.0" y="110" width="106.0" height="40" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="136.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="700">p</text>
+<rect x="171.0" y="110" width="106.0" height="40" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="136.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="700">q</text>
+<rect x="277.0" y="110" width="106.0" height="40" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="136.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="700">r</text>
+<rect x="383.0" y="110" width="106.0" height="40" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="136.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="700">p OR q</text>
+<rect x="489.0" y="110" width="106.0" height="40" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="136.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="700">Result</text>
+<rect x="65.0" y="150" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="176.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="171.0" y="150" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="176.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="277.0" y="150" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="176.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="383.0" y="150" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="176.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="489.0" y="150" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="176.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="65.0" y="190" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="216.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="171.0" y="190" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="216.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="277.0" y="190" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="216.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="383.0" y="190" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="216.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="489.0" y="190" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="216.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">F</text>
+<rect x="65.0" y="230" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="256.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="171.0" y="230" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="256.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="277.0" y="230" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="256.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="383.0" y="230" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="256.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="489.0" y="230" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="256.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="65.0" y="270" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="296.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="171.0" y="270" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="296.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="277.0" y="270" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="296.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="383.0" y="270" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="296.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="489.0" y="270" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="296.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">F</text>
+<rect x="65.0" y="310" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="336.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="171.0" y="310" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="336.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="277.0" y="310" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="336.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="383.0" y="310" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="336.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="489.0" y="310" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="336.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="65.0" y="350" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="376.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="171.0" y="350" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="376.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="277.0" y="350" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="376.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="383.0" y="350" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="376.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="489.0" y="350" width="106.0" height="40" rx="0" fill="#fff1e4" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="376.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">F</text>
+<rect x="65.0" y="390" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="416.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="171.0" y="390" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="416.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="277.0" y="390" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="416.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="400">T</text>
+<rect x="383.0" y="390" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="416.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">F</text>
+<rect x="489.0" y="390" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="416.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<rect x="65.0" y="430" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="118.00" y="456.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="171.0" y="430" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="224.00" y="456.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="277.0" y="430" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="330.00" y="456.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="400">F</text>
+<rect x="383.0" y="430" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="436.00" y="456.00" font-family="Arial,sans-serif" font-size="20" fill="#20394d" text-anchor="middle" font-weight="700">F</text>
+<rect x="489.0" y="430" width="106.0" height="40" rx="0" fill="white" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="542.00" y="456.00" font-family="Arial,sans-serif" font-size="20" fill="#155e82" text-anchor="middle" font-weight="700">T</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Result is(p OR q)implies r.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">It fails only when p OR q is T</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">and r is F.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The three shaded rows do this.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">There are8 assignments in total.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Every possible row is shown. T=true; F=false. Compare entire columns when testing equivalence.</text>
+</svg>

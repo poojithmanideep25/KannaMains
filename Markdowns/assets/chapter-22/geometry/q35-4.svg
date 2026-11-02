@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 625" role="img" aria-labelledby="title desc">
+<title id="title">The actual answer checked in the plane</title><desc id="desc">Using the given coordinates and lambda equals minus one, C, A and D are collinear, with AD opposite and equal to AC. B is in the same plane.</desc>
+<defs><marker id="arrow-blue" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#155e82"/></marker>
+<marker id="arrow-orange" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a04c13"/></marker>
+<marker id="arrow-ink" viewBox="0 0 10 10" refX="8.8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="500.00" y="35.00" font-family="Arial, sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="bold">After solving: check the actual four points</text>
+<rect x="215" y="60" width="580" height="500" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.6"/>
+<line x1="395.30" y1="94.71" x2="464.70" y2="505.29" stroke="#7b8c99" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="430.00" y1="300.00" x2="638.21" y2="300.00" stroke="#155e82" stroke-width="2.7" stroke-linecap="round" marker-end="url(#arrow-blue)"/>
+<line x1="430.00" y1="300.00" x2="395.30" y2="94.71" stroke="#155e82" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow-blue)"/>
+<line x1="430.00" y1="300.00" x2="464.70" y2="505.29" stroke="#a04c13" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 6" marker-end="url(#arrow-orange)"/>
+<circle cx="430.00" cy="300.00" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="444.00" y="286.00" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">A (1, 2, 3)</text>
+<circle cx="638.21" cy="300.00" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="650.21" y="288.00" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">B (2, 3, 5)</text>
+<circle cx="395.30" cy="94.71" r="4.8" fill="#20394d" stroke="#20394d" stroke-width="2"/>
+<text x="407.30" y="84.71" font-family="Arial, sans-serif" font-size="20" fill="#20394d" text-anchor="start" font-weight="bold">C (3, 1, 2)</text>
+<circle cx="464.70" cy="505.29" r="4.8" fill="#a04c13" stroke="#a04c13" stroke-width="2"/>
+<text x="479.70" y="521.29" font-family="Arial, sans-serif" font-size="20" fill="#a04c13" text-anchor="start" font-weight="bold">D (-1, 3, 4)</text>
+<text x="500.00" y="592.00" font-family="Arial, sans-serif" font-size="18" fill="#7b8c99" text-anchor="middle" font-weight="normal">C, A and D are on one straight line. D lies on the opposite side of A from C.</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q13: select the sector that contains the origin</title><desc id="desc">The shaded sector lies between source lines and containsO; its interior bisector is11x−3y+9=0.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q13: select the sector that contains the origin</text>
+<polygon clip-path="url(#plot1)" points="223.46,238.46 368.43,586.39 363.82,588.28 359.18,590.10 354.52,591.87 349.84,593.57 345.13,595.21 340.41,596.78 335.66,598.30 330.89,599.75 326.11,601.14 321.30,602.46 316.48,603.73 311.64,604.92 306.79,606.06 301.92,607.13 297.04,608.13 292.15,609.07 287.24,609.95 282.33,610.76 277.40,611.51 272.46,612.19 267.52,612.80 262.57,613.35 257.61,613.83 252.64,614.25 247.67,614.61 242.69,614.89 237.72,615.11 232.74,615.27 227.75,615.36 222.77,615.38 217.79,615.34 212.80,615.23 207.82,615.06 202.85,614.82 197.87,614.52 192.90,614.14 187.94,613.71 182.98,613.20 178.03,612.64 173.09,612.00 168.15,611.30 163.23,610.54 158.32,609.71 153.41,608.82 148.52,607.86 143.65,606.84 138.78,605.75 133.94,604.60 129.10,603.38 124.29,602.10 119.49,600.76 114.71,599.35 109.95,597.88 105.20,596.35 100.48,594.76 95.78,593.10 91.11,591.38 86.45,589.60 81.82,587.76 77.22,585.86 72.64,583.89 68.08,581.87 63.56,579.78 59.06,577.64 54.59,575.44 50.15,573.17 45.74,570.85 41.36,568.48 37.01,566.04 32.70,563.55 28.42,561.00 24.17,558.39 19.96,555.73 15.78,553.01 11.64,550.23 7.54,547.41 3.47,544.53 -0.56,541.59 -4.54,538.60 -8.49,535.56 -12.40,532.47 -16.27,529.33 -20.09,526.13 -23.87,522.89 -27.61,519.59 -31.31,516.25 -34.96,512.85 -38.56,509.41 -42.12,505.93 -45.63,502.39 -49.10,498.81 -52.52,495.18 -55.89,491.51 -59.21,487.80 -62.48,484.04 -65.70,480.24 -68.87,476.39 -71.99,472.51 -75.06,468.58 -78.08,464.62" fill="#dcecf4" stroke="none"/>
+<defs><clipPath id="plot1"><rect x="85" y="100" width="323.0769230769231" height="350.0"/></clipPath></defs>
+<line x1="246.54" y1="450.00" x2="246.54" y2="100.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="85.00" y1="315.38" x2="408.08" y2="315.38" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="420.08" y="321.38" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">x</text>
+<text x="256.54" y="108.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">y</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Blue: 3x − 4y + 7 = 0</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Orange: 12x + 5y − 2 = 0</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">At O: first value +7, second −2.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">The signs are opposite.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Dashed: chosen sector bisector</text>
+<line x1="85.00" y1="342.31" x2="408.08" y2="100.00" stroke="#155e82" stroke-width="2.5"/>
+<line x1="311.60" y1="450.00" x2="165.77" y2="100.00" stroke="#a04c13" stroke-width="2.5"/>
+<line x1="165.77" y1="450.00" x2="261.22" y2="100.00" stroke="#718594" stroke-width="2.5" stroke-dasharray="7 5"/>
+<circle cx="223.46" cy="238.46" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="238.46" y="220.46" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">V</text>
+<circle cx="246.54" cy="315.38" r="4.8" fill="#155e82" stroke="#155e82" stroke-width="2"/>
+<text x="261.54" y="338.38" font-family="Arial,sans-serif" font-size="19" fill="#155e82" text-anchor="start" font-weight="400">O</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Equal units on both axes; all positions come from the stated geometry.</text>
+</svg>

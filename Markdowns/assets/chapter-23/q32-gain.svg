@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q32: plot signed gain, not the positive face number</title><desc id="desc">Original six equally likely die outcomes mapped to signed monetary gains, with exact expectation.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q32: plot signed gain, not the positive face number</text>
+<defs><clipPath id="plot1"><rect x="85" y="125" width="480" height="300"/></clipPath></defs>
+<line x1="85.00" y1="285.71" x2="565.00" y2="285.71" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="577.00" y="291.71" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<line x1="85.00" y1="425.00" x2="85.00" y2="125.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="90.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Signed gain (rupees)</text>
+<text x="325.00" y="480.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Die face</text>
+<rect x="115.0" y="285.7142857142857" width="45.0" height="21.428571428571388" rx="0" fill="#a04c13" stroke="#20394d" stroke-width="1.5"/>
+<text x="137.50" y="329.14" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">-1</text>
+<text x="137.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="190.0" y="242.85714285714286" width="44.99999999999997" height="42.85714285714286" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="212.50" y="230.86" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<text x="212.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<rect x="265.0" y="285.7142857142857" width="45.0" height="64.28571428571428" rx="0" fill="#a04c13" stroke="#20394d" stroke-width="1.5"/>
+<text x="287.50" y="372.00" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">-3</text>
+<text x="287.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="340.0" y="200.0" width="45.0" height="85.71428571428572" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="362.50" y="188.00" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<text x="362.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<rect x="415.0" y="285.7142857142857" width="45.0" height="107.14285714285717" rx="0" fill="#a04c13" stroke="#20394d" stroke-width="1.5"/>
+<text x="437.50" y="414.86" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">-5</text>
+<text x="437.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<rect x="490.0" y="157.14285714285714" width="45.0" height="128.57142857142858" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="512.50" y="145.14" font-family="Arial,sans-serif" font-size="17" fill="#20394d" text-anchor="middle" font-weight="400">6</text>
+<text x="512.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">6</text>
+<line x1="85.00" y1="275.00" x2="565.00" y2="275.00" stroke="#a33434" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Losses are negative gains.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Gains: −1,+2,−3,+4,−5,+6.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Their sum is 3.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Six equally likely outcomes: E=3/6.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Dashed line: mean gain 0.5.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The mean is probability-weighted; it need not equal one possible single-round gain.</text>
+</svg>

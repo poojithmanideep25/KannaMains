@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+<title id="title">A marked member can be selected first or last</title><desc id="desc">Examplegroup{A,C,E}withmarkedCisdescribedasgroupthenmarkor markthencompanions.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">A marked member can be selected first or last</text>
+<text x="500.00" y="100.00" font-family="Arial,sans-serif" font-size="24" fill="#20394d" text-anchor="middle" font-weight="400">One outcome: group {A, C, E}, with C marked</text>
+<rect x="90" y="170" width="340" height="90" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="260.00" y="223.00" font-family="Arial,sans-serif" font-size="21" fill="#155e82" text-anchor="middle" font-weight="400">Choose group; then mark C</text>
+<rect x="570" y="170" width="340" height="90" rx="0" fill="#edf3f7" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="740.00" y="223.00" font-family="Arial,sans-serif" font-size="21" fill="#155e82" text-anchor="middle" font-weight="400">Choose C; then choose A,E</text>
+<line x1="440.00" y1="215.00" x2="560.00" y2="215.00" stroke="#718594" stroke-width="1.7" marker-end="url(#arrow)"/>
+<text x="500.00" y="335.00" font-family="Arial,sans-serif" font-size="26" fill="#155e82" text-anchor="middle" font-weight="400">r × C(n,r) = n × C(n−1,r−1)</text>
+<text x="500.00" y="402.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">The mark is part of the outcome. Both descriptions recover exactly the same group and marked person.</text>
+</svg>

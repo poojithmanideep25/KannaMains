@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q26: expectation is an average, not a possible ball count</title><desc id="desc">Discrete bars from explicit source counts or exact probability weights; no continuous interpolation.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q26: expectation is an average, not a possible ball count</text>
+<defs><clipPath id="plot1"><rect x="85" y="125" width="480" height="300"/></clipPath></defs>
+<line x1="85.00" y1="425.00" x2="565.00" y2="425.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="577.00" y="431.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<text x="193.82" y="133.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<line x1="85.00" y1="425.00" x2="85.00" y2="125.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="90.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Probability</text>
+<text x="325.00" y="480.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">White-ball count X</text>
+<text x="73.00" y="430.00" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0</text>
+<text x="73.00" y="314.62" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0.268</text>
+<text x="73.00" y="199.23" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0.536</text>
+<rect x="137.23529411764704" y="271.1538461538462" width="93.1764705882353" height="153.8461538461538" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="183.82" y="261.15" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5/14</text>
+<text x="183.82" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="278.4117647058823" y="194.23076923076923" width="93.1764705882353" height="230.76923076923077" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="325.00" y="184.23" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">15/28</text>
+<text x="325.00" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="419.5882352941176" y="378.84615384615387" width="93.1764705882353" height="46.15384615384613" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="466.18" y="368.85" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3/28</text>
+<text x="466.18" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<line x1="289.71" y1="425.00" x2="289.71" y2="125.00" stroke="#a33434" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="289.71" y="105.00" font-family="Arial,sans-serif" font-size="17" fill="#a33434" text-anchor="middle" font-weight="400">mean 3/4</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">All two-ball samples: 28.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Counts for X=0,1,2: 10,15,3.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Mean = (0×10+1×15+2×3)/28.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Expected white count = 3/4.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Separate bars are possible values; their heights come from the saved exact data.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q33: the independent-defect model selects exactly two</title><desc id="desc">Discrete bars from explicit source counts or exact probability weights; no continuous interpolation.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q33: the independent-defect model selects exactly two</text>
+<defs><clipPath id="plot1"><rect x="85" y="125" width="480" height="300"/></clipPath></defs>
+<line x1="85.00" y1="425.00" x2="565.00" y2="425.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="577.00" y="431.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<text x="147.50" y="133.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400"></text>
+<line x1="85.00" y1="425.00" x2="85.00" y2="125.00" stroke="#718594" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="85.00" y="90.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="start" font-weight="400">Probability</text>
+<text x="325.00" y="480.00" font-family="Arial,sans-serif" font-size="18" fill="#20394d" text-anchor="middle" font-weight="400">Number of successes r</text>
+<text x="73.00" y="430.00" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0</text>
+<text x="73.00" y="314.62" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0.205</text>
+<text x="73.00" y="199.23" font-family="Arial,sans-serif" font-size="15" fill="#20394d" text-anchor="end" font-weight="400">0.41</text>
+<rect x="112.75" y="240.3846153846154" width="49.5" height="184.6153846153846" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="137.50" y="230.38" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0.3277</text>
+<text x="137.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">0</text>
+<rect x="187.75" y="194.23076923076925" width="49.5" height="230.76923076923075" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="212.50" y="184.23" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">256/625</text>
+<text x="212.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1</text>
+<rect x="262.75" y="309.61538461538464" width="49.5" height="115.38461538461536" rx="0" fill="#a04c13" stroke="#20394d" stroke-width="1.5"/>
+<text x="287.50" y="299.62" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">128/625</text>
+<text x="287.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">2</text>
+<rect x="337.75" y="396.15384615384613" width="49.5" height="28.846153846153868" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="362.50" y="386.15" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">32/625</text>
+<text x="362.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">3</text>
+<rect x="412.74999999999994" y="421.3942307692308" width="49.50000000000006" height="3.6057692307692264" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="437.50" y="411.39" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4/625</text>
+<text x="437.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">4</text>
+<rect x="487.74999999999994" y="424.81971153846155" width="49.50000000000006" height="0.1802884615384528" rx="0" fill="#edf3f7" stroke="#20394d" stroke-width="1.5"/>
+<text x="512.50" y="414.82" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">1/3125</text>
+<text x="512.50" y="449.00" font-family="Arial,sans-serif" font-size="16" fill="#20394d" text-anchor="middle" font-weight="400">5</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Assume independent defect outcomes.</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Each defect chance is 0.2.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Choose the two defective positions.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">10×(0.2)²×(0.8)³ = 0.2048.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Separate bars are possible values; their heights come from the saved exact data.</text>
+</svg>

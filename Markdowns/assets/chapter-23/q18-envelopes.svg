@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 565" role="img" aria-labelledby="title desc">
+<title id="title">Q18: all nine arrangements with no correct envelope</title><desc id="desc">Explicit labelled elementary outcomes or distinct valid arrangements; positions and conditions are retained.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#20394d"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.00" y="34.00" font-family="Arial,sans-serif" font-size="23" fill="#20394d" text-anchor="middle" font-weight="700">Q18: all nine arrangements with no correct envelope</text>
+<rect x="65.0" y="130" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="144.33" y="173.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">2143</text>
+<rect x="231.66666666666666" y="130" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="311.00" y="173.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">2341</text>
+<rect x="398.3333333333333" y="130" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="477.67" y="173.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">2413</text>
+<rect x="65.0" y="215" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="144.33" y="258.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">3142</text>
+<rect x="231.66666666666666" y="215" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="311.00" y="258.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">3412</text>
+<rect x="398.3333333333333" y="215" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="477.67" y="258.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">3421</text>
+<rect x="65.0" y="300" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="144.33" y="343.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">4123</text>
+<rect x="231.66666666666666" y="300" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="311.00" y="343.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">4312</text>
+<rect x="398.3333333333333" y="300" width="158.66666666666666" height="73" rx="0" fill="#155e82" stroke="#a9bac8" stroke-width="1.5"/>
+<text x="477.67" y="343.50" font-family="Arial,sans-serif" font-size="21" fill="white" text-anchor="middle" font-weight="400">4321</text>
+<text x="635.00" y="130.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Read digits as letter numbers in</text>
+<text x="635.00" y="170.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">envelopes 1,2,3,4 respectively.</text>
+<text x="635.00" y="210.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">Example 2143 has no fixed position.</text>
+<text x="635.00" y="250.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">All nine valid permutations are shown.</text>
+<text x="635.00" y="290.00" font-family="Arial,sans-serif" font-size="19" fill="#20394d" text-anchor="start" font-weight="400">All permutations: 4! = 24.</text>
+<text x="500.00" y="547.00" font-family="Arial,sans-serif" font-size="17" fill="#718594" text-anchor="middle" font-weight="400">Every displayed item is labelled; the explanation states whether this is the full outcome space.</text>
+</svg>
